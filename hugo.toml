@@ -1,1 +1,4 @@
+baseURL = 'https://blog.pakasa.io/'
+languageCode = 'en-us'
+title = 'Pakasa'
 theme = 'ananke'
