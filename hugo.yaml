@@ -1,0 +1,113 @@
+baseURL: https://blog.pakasa.io/
+languageCode: en-us
+title: Pakasa
+theme: hermit-v2
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+enableGitInfo: true
+pygmentsCodefences: true
+pygmentsUseClasses: true
+rssLimit: 10
+copyright: This work is licensed under a Creative Commons
+  Attribution-NonCommercial 4.0 International License.
+enableEmoji: true
+languages:
+  en:
+    title: Hermit - V2
+    params:
+      homeSubtitle: Continuing Hermit's legacy to be minimal and fast theme
+      weight: 1
+frontmatter:
+  date:
+    - lastmod
+    - date
+    - publishDate
+  lastmod:
+    - date
+    - lastmod
+    - :git
+    - publishDate
+  publishDate:
+    - publishDate
+    - date
+  expiryDate:
+    - expiryDate
+params:
+  author:
+    name: BLZR
+    about: about-hugo
+  dateform: Jan 2, 2006
+  dateformShort: Jan 2
+  dateformNum: 2006-01-02
+  dateformNumTime: 2006-01-02 15:04 -0700
+  description: Continuing Hermit's legacy to be minimal and fast theme
+  themeColor: "#494f5c"
+  footerCopyright: ' <a href="https://creativecommons.org/licenses/by-nc/4.0/"
+    target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  justifyContent: false
+  relatedPosts: true
+  code_copy_button: true
+  homeSubtitlePrinter: true
+  scrollToTop: true
+  global_mathjax: false
+  readTime: true
+  readTimeSeparator: "… ⏲ Reading Time:"
+  shareSocial: true
+  pinned: Pinned Posts
+  descriptionInPosts: true
+  human:
+    - single
+    - posts
+  socialLinks:
+    - name: github
+      url: https://github.com/1bl4z3r/hermit-V2/tree/staging
+blackfriday: {}
+taxonomies:
+  tag: tags
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+            - - \[
+              - \]
+            - - $$
+              - $$
+          inline:
+            - - \(
+              - \)
+  asciidocExt:
+    backend: html5
+    extensions: []
+    failureLevel: fatal
+    noHeaderOrFooter: true
+    preserveTOC: false
+    safeMode: unsafe
+    sectionNumbers: false
+    trace: false
+    verbose: false
+    workingFolderCurrent: false
+    attributes: {}
+menu:
+  main:
+    - name: Posts
+      url: posts/
+      weight: 10
+    - name: About
+      url: about-hugo/
+      weight: 20
+security:
+  enableInlineShortcodes: false
+  exec:
+    allow:
+      - ^(dart-)?sass(-embedded)?$
+      - ^go$
+      - ^git$
+      - ^npx$
+      - ^postcss$
+      - ^tailwindcss$
+      - ^asciidoctor$
