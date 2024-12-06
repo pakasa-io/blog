@@ -1,20 +1,13 @@
-#!/usr/bin/env zsh
+#!/usr/bin/env bash
 
-zshrc="${HOME}/.zshrc"
 bashrc="${HOME}/.bashrc"
 
-if [ -f $zshrc ]; then
-  echo "setup zshrc"
-  echo "\n# aliases\n" >> $zshrc
-  cat ./aliases.sh >> $zshrc
-  source zshrc
-fi
+chsh -s /bin/bash
 
 if [ -f $bashrc ]; then
-   echo "setup bashrc"
-  echo "\n# aliases\n" >> $bashrc
+  echo -e "\n# aliases\\n" >> $bashrc
   cat ./aliases.sh >> $bashrc
-  source bashrc
+  source $bashrc
 fi
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
