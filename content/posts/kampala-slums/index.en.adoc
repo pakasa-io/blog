@@ -1,0 +1,57 @@
+---
+draft: false
+weight: 1
+title: "Brief: slums in Kampala"
+date: 2024-12-05T22:12:23-08:00
+authors:
+  - Sheillah
+tags:
+  - briefs
+categories:
+  - briefs
+series:
+series_weight: 1
+searchable: true
+featuredImage: _feature.webp
+featuredImagePreview: _preview.webp
+hiddenFromHomePage: false
+---
+
+Slums are thickly populaated sections especially of  a city marked by crowding, dirty rundown housing, and generally poor conditions.
+Kampala is the capital city of uganda and there are about sixty two slum  settlements and about 60%residents live in them.
+
+
+It is estimated by link:https://ssauganda.org.ug[SSA Uganda] according to Action Aid International that over 1.5 million people out of Kampala's populatioon live in slums out of which 1.2 million do not have access to latrines for human excreta disposal.
+
+Kampala has five divisions and each of these division has slums as listed below;
+
+[horizontal]
+*Central*:: Bukesa, Kagugube, Kamwokya II, Kisenyi I, Kisenyi II, Mengo
+
+*Nakawa*:: Banda, Bukoto I, Butabika, Kitintale, Kinawataka, Mambo Bado, Kasenyi, Luzira, Naguru
+
+*Makindye*:: Bukasa, Ggaba, Kabalagala-Kataba, Kabalagala-Kikuubamuywe, Kansanga, Katwe I, Katwe II, Kibuye I, Kibuye II, Kisugu, Lukuli Kilombe, Nsambya Googonya, Nsambya-Kevina, Salaaama, Wabigalo
+
+*Kawempe*:: Bwaise I, Bwaise II, Kalwrwe, Kanyanga, Kawempe I, Katanga, Kazo-Angola, Kifumbira, Kyebando-Kisalosalo, Makerere III, Mpererwe, Mulago II, Nsooba, Ssebaggala, kawempe II
+
+*Rubaga*:: Busega, Kasubi, Kawala, Kizito Block Naajja II, Kosvo(Bukooza), Lungujja-KItunzi, Mutundwe-Wabiyinja, Najjanankuumbi, Namirembe-Bakuli, Namungoona, Nakulabye, Nateete, Ndeeba, Wankuluku
+
+The factors or causes that have led to the proliferation of slums are rapid urbanisation, poverty and income inequualities, poor urban planning and governance and environmental issues among others.
+
+Urbanisation is a result of the increased number of people migrating from rural areas to settle  in cities like Kampala due to better social services like improved health care services,better education services,improved roads, electricity among others.
+
+Further more, poor planning and governance is as a  result of the corrupt government officials who are money minded and think only about themselves and their families and not the people they choose too serve hence leaving to the development of slums.
+
+Poverty and income inequalities are result unequal employment opportunities to the big population leaving large number of them unemployed and are unable to earn income leading to a big difference between the rich and the poor which inadvertently manifests in the rise of slums all around Kampala.
+
+Also Kampala as a city attracts many immigrants froom all over the world due to better employment opportunities of jobs and education services which leads to population increase putting in place conditions to development of slums.
+
+Ugandans have many negative effects on the city and these are poor health conditions due to lack of access to clean water, safe food and quality healthcare. The commoon diseases are malaria, cholera,tuberculosis, diarrhea, typhoid among others.
+
+Slums in Kampala have poor sanitation due to poor waste disposal, poor plumbling,and sewage roads. This is because few parts of Kampala are connected to sewage lines and sewage from pit latrines ends up in drainage ditches during rainy seasons.
+
+Most of the slums are built up in wetlands like those in Nateete, Busega making them vulnerable to flooding. Flooding combined with poor sanitization leads to water borne diseases like typhoid and cholera.
+
+The growth in the number of slums in Kampala haas led to increased crime rate in Uganda. This is because people are idle since they have no employment opportunities hence end up committing crime.
+
+The challenge of slums can be solved by link: http://www.kcca.go.ug[KCCA] through developing city plans and regulatory mechanisms that are cognisant with the local dynamics of land development, developing plans that improve informal and slum settlement and support  social housing, developing plans to provide basic services and ensure human safety, developing of all inclusive city services and ensuring urban equity and elimination of spatial exclusion, developing of city plans that take into account climate change issues including restoration of forests and wetlands.
