@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json.schemastore.org/nest-cli",
+  "collection": "@nestjs/schematics",
+  "defaultLibraryPrefix": "@pakasa",
+  "sourceRoot": "apps/chwa/src",
+  "compilerOptions": {
+    "deleteOutDir": true,
+    "webpack": true,
+    "tsConfigPath": "apps/chwa/tsconfig.app.json"
+  },
+  "generateOptions": {
+    "spec": true,
+    "flat": true
+  },
+  "monorepo": true,
+  "root": "apps/chwa",
+  "projects": {
+    "chwa": {
+      "type": "application",
+      "root": "apps/chwa",
+      "entryFile": "main",
+      "sourceRoot": "apps/chwa/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/chwa/tsconfig.app.json"
+      }
+    },
+    "search": {
+      "type": "library",
+      "root": "libs/search",
+      "entryFile": "index",
+      "sourceRoot": "libs/search/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/search/tsconfig.lib.json"
+      }
+    },
+    "third-party": {
+      "type": "library",
+      "root": "libs/third-party",
+      "entryFile": "index",
+      "sourceRoot": "libs/third-party/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/third-party/tsconfig.lib.json"
+      }
+    },
+    "scaffold": {
+      "type": "library",
+      "root": "libs/scaffold",
+      "entryFile": "index",
+      "sourceRoot": "libs/scaffold/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/scaffold/tsconfig.lib.json"
+      }
+    }
+  }
+}

@@ -102,52 +102,42 @@ params:
     tileColor: "#da532c"
 
   author:
-    name: Sheillah Nanyonga
-    email: "nsheilah@pakasa.io"
+    name: Pakasa
+    email: "admin@pakasa.io"
     link: ""
     avatar: ""
     gravatarEmail: ""
   search:
     enable: true
-    type: fuse
+    type: algolia
     contentLength: 4000
-    placeholder: ""
+    placeholder:
     maxResultLength: 10
     snippetLength: 30
     highlightTag: em
     absoluteURL: false
     algolia:
-      index: ""
-      appID: ""
-      searchKey: ""
-    fuse:
-      isCaseSensitive: false
-      minMatchCharLength: 2
-      findAllMatches: false
-      location: 0
-      threshold: 0.3
-      distance: 100
-      ignoreLocation: false
-      useExtendedSearch: false
-      ignoreFieldNorm: false
+      index: blog_pakasa
+      appID: PQMVW8TJNU
+      searchKey: 4ecd84ebd4d9bb1f5736efec21fe96f2
   image:
     cacheRemote: true
     optimise: true
   header:
     themeChangeMode: select
     title:
-      logo: ""
-      name: ""
-      pre: ""
-      post: ""
+      logo:
+      name: Pakasa
+      pre:
+      post:
       typeit: false
   footer:
     enable: true
-    custom: ""
-    hugo: true
-    hostedOn: ""
+    custom: "Pakasa"
+    hugo: false
+    hostedOn:
     copyright: true
-    author: true
+    author: false
     since: 2024
     license: <a rel="license external nofollow noopener noreffer"
       href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC
@@ -170,25 +160,25 @@ params:
     profile:
       enable: true
       gravatarEmail: ""
-      avatarURL: /images/avatar.webp
+      avatarURL: /images/sheillah.webp
       avatarLinkURL: ""
       title: "Blog | Pakasa"
-      subtitle: Pakasa blog site
-      typeit: true
+      subtitle:
+      typeit: false
       social: true
       disclaimer: ""
     posts:
       enable: true
       paginate: 6
-      defaultHiddenFromHomePage: false
+      defaultHiddenFromHomePage: true
   page:
-    hiddenFromHomePage: false
-    hiddenFromSearch: false
+    hiddenFromHomePage: true
+    hiddenFromSearch: true
     twemoji: false
     lightgallery: false
     ruby: true
     fraction: true
-    linkToMarkdown: true
+    linkToMarkdown: false
     linkToSource: false
     linkToEdit: false
     linkToReport: false
@@ -202,9 +192,9 @@ params:
       reminder: 90
       warning: 180
     toc:
-      enable: true
-      keepStatic: true
-      auto: true
+      enable: false
+      keepStatic: false
+      auto: false
     math:
       enable: false
       blockLeftDelimiter: ""
@@ -232,7 +222,7 @@ params:
       Facebook: true
       Linkedin: true
       Reddit: false
-      Evernote: true
+      Evernote: false
     instantpage:
       enable: false
     comment:
@@ -390,3 +380,10 @@ menu:
       url: /categories/
       title: ""
       weight: 3
+#    - identifier: about
+#      pre: ""
+#      post: ""
+#      name: About
+#      url: /about/
+#      title: ""
+#      weight: 4
