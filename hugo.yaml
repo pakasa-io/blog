@@ -230,7 +230,7 @@ params:
       valine:
         enable: true
         appId: u0oyAaeGu1RCTn6VdW13oVP1-MdYXbMMI
-        appKey: tUVRf56qAPkLrulMW81KNzfn
+        appKey: tPqdrwEoruHFsEfFA9nqJo84
         placeholder: "Add comment"
         avatar: mp
         meta: 
