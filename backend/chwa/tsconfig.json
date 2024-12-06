@@ -1,0 +1,41 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "declaration": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "ES2021",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "incremental": true,
+    "skipLibCheck": true,
+    "strictNullChecks": false,
+    "noImplicitAny": false,
+    "strictBindCallApply": false,
+    "forceConsistentCasingInFileNames": false,
+    "noFallthroughCasesInSwitch": false,
+    "paths": {
+      "@pakasa/search": [
+        "libs/search/src"
+      ],
+      "@pakasa/search/*": [
+        "libs/search/src/*"
+      ],
+      "@pakasa/third-party": [
+        "libs/third-party/src"
+      ],
+      "@pakasa/third-party/*": [
+        "libs/third-party/src/*"
+      ],
+      "@pakasa/scaffold": [
+        "libs/scaffold/src"
+      ],
+      "@pakasa/scaffold/*": [
+        "libs/scaffold/src/*"
+      ]
+    }
+  }
+}

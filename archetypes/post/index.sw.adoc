@@ -1,9 +1,9 @@
 ---
-draft: false
+draft: true
 weight: 1
-title: "Sample blog post"
-date: 2024-12-05T14:07:01-08:00
-lastmod: 2024-12-05T14:07:01-08:00
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
+date: {{ .Date }}
+lastmod: {{ .Date }}
 authors:
   - Sheillah
 tags:
@@ -15,7 +15,7 @@ series_weight: 1
 searchable: true
 featuredImage: _feature.webp
 featuredImagePreview: _preview.webp
-hiddenFromHomePage: false
+hiddenFromHomePage: true
 ---
 
-content goes here
+maudhui huenda hapa
