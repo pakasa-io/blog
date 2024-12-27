@@ -1,0 +1,38 @@
+---
+draft: false
+weight: 1
+title: "Brief: street kids in Kampala"
+date: 2024-12-22T11:33:21+03:00
+lastmod: 2024-12-22T11:33:21+03:00
+authors:
+  - Sheillah Nanyonga
+tags:
+  - misc
+categories:
+  - misc
+series:
+series_weight: 1
+searchable: true
+featuredImage: _feature.webp
+featuredImagePreview: _preview.webp
+hiddenFromHomePage: true
+---
+
+A street child is a child who lives on the street or has a strong connection to public space like street, parks and bus station.
+
+More than a thousand children aged between 7 years and 14 years are living on the streets of kampala for their survival, they may either live or work on the streets or have support networks on the street.
+
+These children sometimes may end up on the streets because of poverty, discrimination, parental death and neglect, child abuse, mental health issues, natural disaster, displacement, due to conflict, disabilities, running away from home and institution, abandonment by their families.
+
+These children make lingers along the busy streets and tend to beg for money from the pedestrians and also from people in the moving vehicles.
+
+On the other side, these children go through a lot during their stay on the streets as indicated by link:www.streetchildren.org[streetchildren.org] and these include:
+
+*Violence*. Street children most of the times have no families or law to fight for their rights and to protect them from these planning to harm them. In that case, they are in most cases robbed, beaten and even targeted by law enforcement or government officials in some cases.
+
+*Street children are targeted by abusers*. The abusers may sexually assult the street children, forcefully recruit them into Criminal activities, traffic them and also send them out oon the streets to beg and street.
+
+*Street children also suffer from mental health.* This is because street children suffer from a lot of depression, anxiety and trauma which may lead them to drug abuse and risk of suicide.
+
+However,street children also go through bullying, depression because of the abandonment by their families and are also regarded as wrong doers,useless people and immoral permissive people.
+

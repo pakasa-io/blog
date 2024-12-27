@@ -1,0 +1,24 @@
+---
+draft: true
+weight: 1
+title: "Brief: impact of polythene bags"
+date: 2024-12-27T12:07:02+03:00
+lastmod: 2024-12-27T12:07:02+03:00
+authors:
+  - Sheillah
+tags:
+  - misc
+categories:
+  - misc
+series:
+series_weight: 1
+searchable: true
+featuredImage: _feature.webp
+featuredImagePreview: _preview.webp
+hiddenFromHomePage: true
+---
+
+A polythene bag is a bag made of thin plastic, especially one used to store or protect food or household articles. It is made from polythene, a type of plastic that is the most commonly produced ,plastic in the world. Polythene bags are used in a variety of industries, including food, grocery, and healthcare.
+
+They are two types of polythene which are high density polythene (HDPE) and low density polythene.::
+*High density polythene (HDPE).* It is the most common type of polythene, and it is used in products such as milk jugs
