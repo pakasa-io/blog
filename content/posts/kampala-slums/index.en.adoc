@@ -17,8 +17,8 @@ featuredImagePreview: _preview.webp
 hiddenFromHomePage: false
 ---
 
-Slums are thickly populaated sections especially of  a city marked by crowding, dirty rundown housing, and generally poor conditions.
-Kampala is the capital city of uganda and there are about sixty two slum  settlements and about 60%residents live in them.
+Slums are thickly populated sections especially of  a city marked by crowding, dirty rundown housing, and generally poor conditions.
+Kampala is the capital city of uganda and there are about sixty two slum  settlements and about 60% residents live in them.
 
 
 It is estimated by link:https://ssauganda.org.ug[SSA Uganda] according to Action Aid International that over 1.5 million people out of Kampala's populatioon live in slums out of which 1.2 million do not have access to latrines for human excreta disposal.
