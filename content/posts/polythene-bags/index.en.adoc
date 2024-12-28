@@ -20,5 +20,57 @@ hiddenFromHomePage: true
 
 A polythene bag is a bag made of thin plastic, especially one used to store or protect food or household articles. It is made from polythene, a type of plastic that is the most commonly produced ,plastic in the world. Polythene bags are used in a variety of industries, including food, grocery, and healthcare.
 
-They are two types of polythene which are high density polythene (HDPE) and low density polythene.::
-*High density polythene (HDPE).* It is the most common type of polythene, and it is used in products such as milk jugs
+*There are more than three types of polythene which are high density polythene (HDPE), low density polythene, linear low density polythene (LLDPE).*
+
+*High density polythene (HDPE).* It is the most common type of polythene, and it is used in products such as milk jugs. They are thin, strong and less flexible.
+
+*Low density polythene (LDPE).* It is used for shopping bags, packing bags, food storage. It is softer, flexible, and transparent.
+
+*Linear low density polythene(LLDPE).* It is commonly used for heavy duty purposes like garbage bags. It is more stretchable and puncture resistant.
+
+Further more polythene bags have both positive and negative impacts on both the environment and the society at large. The positive impacts include;
+
+* Polythene bags are lightweight, flexible, and easy to carry, making them highly convenient for everyday use.
+
+* They come in various sizes and strengths, suitable for carrying different types of goods, including heavy or liquid items.
+
+* Polythene bags have reduced deforestation. This is because polythene bags reduce the demand for paper bags, which in turn can help reduce deforestation for paper production.
+
+* Many polythene  bags can be reused multiple times if handled properly, reducing the need for frequent replacement.
+
+* Polythene bags are cheap to produce, making them affordable for consumers and businesses, particularly in low-income regions.
+
+* Polythene bags are durable and can carry heavier loads compared to some alternatives like paper or thin cloth bags.
+
+* Unlike paper bags, polythene bags are resistant to water, making them suitable for protecting goods  in wet or rainy condition.
+
+However, polythene bags also have negative impacts on the environment and society as analysed below;
+
+* Polythene bags take hundreds of years to decompose, leading to long term pollution.
+
+* When discarded, they can leach harmful chemicals into soil and water sources.
+
+* Polythene bags often end up in rivers  and end up in rivers and oceans, where they are harmful to aquatic ecosystem and marine life. Also animals often mistake them for food, leading to ingestion and death.
+
+*  Burning polythene releases toxic gases, including dioxins and furans which contribute to air pollution and global warming.
+
+* Polythene bags often clog landfills and drainage systems, exacerbating flooding in urban areas.
+
+* Government and municipalities spend significant resources on cleaning up plastic waste and addressing  its impact on infrastructure.
+
+On the other side the negative impacts of polythene bags can be solved by the following;
+
+* Promote the use of alternatives such as cloth or jute bags.
+
+* Implement stricter regulations on the production and use of polythene bags.
+
+* Increase public awareness about the environmental and health impacts of polythene bags.
+
+* Encourage recycling and proper waste disposal practices.
+
+* Adopt policies like bans or taxes on single use plastics to reduce consumption.
+
+
+
+
+
