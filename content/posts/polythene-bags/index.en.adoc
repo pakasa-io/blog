@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 weight: 1
 title: "Brief: impact of polythene bags"
 date: 2024-12-27T12:07:02+03:00
