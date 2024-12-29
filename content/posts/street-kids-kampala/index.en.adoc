@@ -15,7 +15,7 @@ series_weight: 1
 searchable: true
 featuredImage: _feature.webp
 featuredImagePreview: _preview.webp
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 A street child is a child who lives on the street or has a strong connection to public space like street, parks and bus station.
