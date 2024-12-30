@@ -18,7 +18,20 @@ featuredImagePreview: _preview.webp
 hiddenFromHomePage: true
 ---
 
-A polythene bag is a bag made of thin plastic, especially one used to store or protect food or household articles. It is made from polythene, a type of plastic that is the most commonly produced ,plastic in the world. Polythene bags are used in a variety of industries, including food, grocery, and healthcare.
+A polythene bag is a bag made of thin plastic, especially one used to store or protect food or household articles. It is made from polythene, a type of plastic that is the most commonly produced plastic in the world. Polythene bags are used in a variety of industries, including food, grocery, and healthcare.
+
+In Uganda, the act 2009 prohibited the importation,local manufacturer,sale or use of polythene bags and material, but this act upto today has not been put in place or order link:https://www.monitor.co.ug[monitor]. People have failed to stop using polythene bags and this is because polythene bags are cheap to produce and at a times are given for free by retailers, resistance to change since alternative sources are a bit expensive like tote bags, lack of awareness of the negative impacts of polythene bags, weak enforcement and lack oof penalties allow their continue use among others.
+
+In uganda there are many many many manufacturers of polythene bags and these are;
+
+[Horizontal]
+*Nile plastic industries Ltd*:: Plot 24, Masaka Rd Kampala 6.7km. contact 0393263534 website link:https://www.nileplasticindustries.com[nileplasticindustries.com]
+
+*Quality polybags (U) Ltd*:: Plot 650, Nalukolongo, Wankulukuku Road next to Aponye (U) Ltd 24765, Kampala 5.0km contact +256 (31)2-265417 website link:https://quality.polybags.u.ltd[quality.polybags.u.ltd]
+
+There are so many polythene bag producers in uganda but have mentioned a few.
+
+The biggest polythene bags users are retail and grocery stores, food and beverage industry, street vendors and small businesses, households,developing countries,clothing and retail shops E-commerce and delivery services among others.
 
 *There are more than three types of polythene which are high density polythene (HDPE), low density polythene, linear low density polythene (LLDPE).*
 
@@ -44,7 +57,7 @@ Further more polythene bags have both positive and negative impacts on both the 
 
 * Unlike paper bags, polythene bags are resistant to water, making them suitable for protecting goods  in wet or rainy condition.
 
-However, polythene bags also have negative impacts on the environment and society as analysed below;
+However, polythene bags also have negative impacts on the environment and society as analysed below link:https://www.newvision.co.ug[newvision.co.ug]
 
 * Polythene bags take hundreds of years to decompose, leading to long term pollution.
 
