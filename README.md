@@ -13,3 +13,5 @@
 - `sv` - save changes
 - `up` - upload the local changes
 - `sync` - sync your changes with the remote changes
+
+:wq
