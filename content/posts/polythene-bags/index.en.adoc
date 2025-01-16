@@ -15,7 +15,7 @@ series_weight: 1
 searchable: true
 featuredImage: _feature.webp
 featuredImagePreview: _preview.webp
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 A polythene bag is a bag made of thin plastic, especially one used to store or protect food or household articles. It is made from polythene, a type of plastic that is the most commonly produced plastic in the world. Polythene bags are used in a variety of industries, including food, grocery, and healthcare.
