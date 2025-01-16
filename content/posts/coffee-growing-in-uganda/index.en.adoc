@@ -1,0 +1,110 @@
+---
+draft: false
+weight: 1
+title: "brief: coffee growing in uganda"
+date: 2024-12-30T16:13:26+03:00
+lastmod: 2024-12-30T16:13:26+03:00
+authors:
+  - Sheillah
+tags:
+  - misc
+categories:
+  - misc
+series:
+series_weight: 1
+searchable: true
+featuredImage: _feature.webp
+featuredImagePreview: _preview.webp
+hiddenFromHomePage: true
+---
+
+Coffee is Uganda's top earning export crop as analysed by link:https://en.m.wikipedia.org[en.m.wikipedia.org]. In 1989, Uganda's coffee production capacity exceeded its quota of 2.3 million bags, but export volume were still diminished by economic and security problems, and large amounts of coffee beans were still being smuggled out of Uganda for sale in neighbouring countries. Uganda is one of the few countries in the world with indigenous coffee, with Robusta coffee growing wild around Lake Victoria.
+
+Uganda mainly produces two kinds of coffee that is Robusta and Arabica coffee also known as mountain coffee.
+
+Over the years, Robusta has been produced in much more quantities compared to Arabica coffee.
+
+Roobusta coffee is grown in lowland areas which receive heavy rainfall of about 1000mm per annum such as Mukono, Buikwe, Masaka, Luweero, Wakiso, Mityana, Mubende.
+
+Arabica coffee is grown in highland areas like Mbale, Manafwa, Sironko, Budda on Mountain Elgon, kasese and Bundibugyo on mountain Rwenzori.
+
+The Uganda Coffee Development Authority link:https://ugandacoffee.go.ug[ugandacoffee.go.ug] has been formed to manage the production and marketing of coffee.
+
+The role of the Uganda Coffee Development Authority is to provide an enabling environment for the millions of stakeholders along the coffee value chain to thrive.
+
+The managing director of the Uganda Coffee Development Authority in his message said that Uganda's coffee sub sector has achieved  remarkable  growth, culminating in record-breaking achievements for financial year 2023/24. Coffee export earned an unprecedented US$1.14 Billion, marking a 6.33% increase in value compared to the previous financial year-the highest revenue in 30 years.
+
+As per 1st-November, 2024, the kilogram of coffee cost UGX 6200-7200 FAQ 12,800-13,500 Arabica Parchment 12,000-13,000 Drugar 11,500-12,000. Coffee is gold.
+
+Coffee is grown from seeds, also known as coffee beans, that are planted in nurseries and then moved to their permanent location. Here are some of the steps for growing coffee.
+
+Soak and plant.:: Soak green, untreated coffee beans in water for a day, then plant them in a mixture of plotting soil, sand, and a mineral substrate.
+
+Grow seedlings.:: Keep seedlings in a shaded area and water them frequently until they are strong enough to be moved to their permanent location.
+
+Plant in the rainy season.:: Plant the  seedlings during a the rainy season so the soil stay moist and the roots can establish themselves.
+
+Trim and wait.:: Trim the seedlings to give them a strong framework and encourage fruiting.
+
+Harvest.:: After 3-4 years, the seeding will mature and begin producing fruit, or mature and begin producing fruit, or cherries. The cherries usually contain two flat seeds and turn red when ready to be picked.Depending on the type of coffee plant, the cherries can take 6-11 months to ripen.
+
+The conditions which have favoured coffee growing are the presence of deep, fertile well-drained soils,  the presence of heavy rainfall off above 1000mm per annum, the presence of tropical rainforest trees which provide shade to coffee seedlings and protect the coffee plants from strong winds, the presence of extensive land to promote extensive growing of the coffee, availability of adequate capital invested in buying land, cultivation and harvesting of coffee, availability of skilled and semi-skilled labour in weeding, harvesting and marketing of coffee, the presence of a large market both locally and aboard, relatively stable political climate that encourages investment in the coffee industry, favourable government policy of taxation among others.
+
+Furthermore, coffee growing has contributed both positively and negatively in uganda. below are the positive contributions;
+
+* Source of employment opportunities for people employed to plant, weed and market of coffee.
+
+* Source of foreign exchange through exportation of coffee to foreign countries like Japan.
+
+* Source of government revenue through taxes charged on  coffee farmers and exporters of coffee.
+
+* It is a source of food in form of beverage coffee.
+
+* It has led to the development off power and energy in form of fire used for both industrial and domestic use.
+
+* Coffee is used for cultural purposes among the Bugaanda for cementing relationship by sharing Robusta coffee.
+
+However, coffee growing has also contributed negatively t Uganda as analysed below;
+
+* It has led to  industrial pollution from coffee processing  industries.
+
+* It has led to urban  related problems in  urban area which have developed from coffee growing like high crime rate and unemployment.
+
+* Coffee growing has led to neglect of the growth of food crops like maize and cassava since large tracts of land is occupied by coffee.
+
+* Coffee growing is highly affected by price fluctuation leading to instability in farmer's income and government revenue.
+
+On the other side, coffee growing is affected by some challenge and these include the following.
+
+* Pests and diseases like coffee wilt.
+
+* Soil exhaustion due to monoculture has led to low yield.
+
+* Unfavourable climatic conditions like prolonged drought which lead to low yield.
+
+* Unfavourable government policy of over taxing coffee industries and exporters.
+
+* Inadequate capital to be invested in the  buying of land and establishing processing plants for coffee.
+
+* Political instabilities in some areas for discouraged investor to invest in the coffee industry since insure for security of  their life and property.
+
+* Limited research conducted regarding improved quality production of coffee.
+
+Lastly, the problems faced by coffee growing are being solved by the following measures.
+
+* Conducting research regarding improvement of coffee varieties and market for coffee.
+
+* Application of fertilizers and manure to improve the quality of coffee.
+
+* Improving on the security by using the national army UPDF so as to encourage investment in coffee growing.
+
+* Spraying pesticides to control pests and diseases for coffee.
+
+* Education and training of coffee farmers about better coffee growing methods.
+
+
+
+
+
+
+
