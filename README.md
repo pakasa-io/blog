@@ -1,6 +1,6 @@
 ## Pakasa Blog
-### Setuhp 
-1. homebrew `/bin/bash -c "$(curl -fsSL dm/Homebrew/install/HEAD/install.sh)"`
+### Setup 
+1. homebrew `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 2. nodejs `brew install node`
 3. Golang `brew install golang`
 4. Hugo `brew install hugo`
@@ -13,5 +13,3 @@
 - `sv` - save changes
 - `up` - upload the local changes
 - `sync` - sync your changes with the remote changes
-
-:wq

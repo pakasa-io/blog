@@ -13,9 +13,7 @@ categories:
 series:
 series_weight: 1
 searchable: true
-featuredImage: _feature.webp
-featuredImagePreview: _preview.webp
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 Coffee is Uganda's top earning export crop as analysed by link:https://en.m.wikipedia.org[en.m.wikipedia.org]. In 1989, Uganda's coffee production capacity exceeded its quota of 2.3 million bags, but export volume were still diminished by economic and security problems, and large amounts of coffee beans were still being smuggled out of Uganda for sale in neighbouring countries. Uganda is one of the few countries in the world with indigenous coffee, with Robusta coffee growing wild around Lake Victoria.

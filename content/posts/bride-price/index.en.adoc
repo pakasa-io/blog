@@ -13,8 +13,6 @@ categories:
 series:
 series_weight: 1
 searchable: true
-featuredImage: _feature.webp
-featuredImagePreview: _preview.webp
 hiddenFromHomePage: true
 ---
 
