@@ -1,0 +1,164 @@
+---
+draft: true
+weight: 1
+title: "Brief: Uganda's climate"
+date: 2025-02-07T13:55:48+03:00
+lastmod: 2025-02-07T13:55:48+03:00
+authors:
+  - Sheillah
+tags:
+  - misc
+categories:
+  - misc
+series:
+series_weight: 1
+searchable: true
+featuredImage: _feature.webp
+featuredImagePreview: _preview.webp
+hiddenFromHomePage: true
+---
+
+Climate is the average weather condition of the atmosphere of an area recorded over a long period of time of at least 30-35 years.
+
+Climate is obtained after studying weather elements such as rainfall, temperature, wind, atmospheric pressure, cloud cover, humidity and sunshine for a long period of time.
+
+The major types of climate in Uganda include;
+
+*Equatorial climate.* It is found in Jinja, Entebbe, Kampala, Buikwe, Wakiso and areas around Lake Victoria. It is characterized of ;
+
+* Heavy rainfall is received and is well distributed throughout the year with rainfall totals between 1200mm-2000mm per annum on average.
+
+* Bi-modal pattern of rain fall is received i.e. double maxima with peaks in April and October.
+
+* Convectional rainfall is usually received during the afternoons and evening accompanied by
+thunderstorms and lightening.
+
+* Temperatures are generally hot ranging between 25-28 on average.
+
+*  Humidity is very high throughout the year due to high rates of evapotranspiration from water
+bodies and plants and relative humidity is about 80%.
+
+* There is thick cloud cover throughout the year due to high rates of evaporation and
+condensation.
+
+*Modified equatorial climate/montane climate.* This is confined in the mountainous areas for example Mbale, Manafwa, Sironko on mountain Elgon, Kabale and kisoro on mt Muhavura, kasese and Bundibugyo on mt Rwenzori. It is characterized of;
+
+* Heavy rain fall of above 1500mm per annum is received on the wind ward sides of mountains.
+
+* Low rain fall amounts are received on the lee ward sides of the mountains.
+
+* Temperatures decrease with an increase in altitude at the rate of 1 oc for every 100 metres of
+ascend.
+
+* Atmospheric pressure reduces with altitude.
+
+* Relative humidity is high throughout the year.
+
+*Tropical savannah climate.* This covers the biggest percentage of the total land area of Uganda in areas like Soroti, kumi, Gulu, Arua, Hoima, Masindi. It is characterized of;
+
+* Moderate rainfall is received ranging between 750-1500mm per annum.
+
+* The area experiences alternate wet and dry season with rainfall season extending from April
+to October.
+
+* Rain fall is mainly received in summer and winters are normally dry.
+
+* Temperatures re generally hot ranging between22-28.
+
+* The summers are hot with temperatures above 26 while winters are warm with temperatures
+usually about 15.
+
+* The annual temperature range is moderate between7-10.
+
+* There is a large diurnal range of temperature 14-17.
+
+* Humidity is high during the wet season and low during the dry season.
+
+* There is heavy cloud cover towards the equator and less cloud cover towards the semi_desert.
+
+*Semi-desert climate.* This is found in Karamoja region i.e. Kabong, Kotido, Moroto, Ankole- Masaka dry corridor in Kiruhura, Lyantonde and in parts of Kasese and Nakasongola. It is characterized of;
+
+* Low rainfall amount of less than 750mm per annum is received, which is un evenly distributed.
+
+* The areas receive unreliable/ seasonal rain fall.
+
+* Hot temperatures of above 30 are experienced with a high diurnal temperature range of about 10
+
+* There is no definite_wet season.
+
+* Relative humidity is very low usually less than 25% because of intensive dry skies and low level of evapotranspiration.
+
+* The areas experience a long dry season of over 9 month and a short wet season of about 3 month.
+
+* The air is dry due to constant dry winds blowing across the area.
+
+* Little or no rainfall circumstances are evidenced.
+
+* The areas are characterized with cloudless skies.
+
+* The area is characterized with low atmospheric pressure.
+
+However, the climate of Uganda is favored by the following.
+
+*The distance from the sea/water bodies like lakes.*
+
+* Areas near water bodies like Lake Victoria experience equatorial climate characterized by heavy
+rainfall of above 1500mm per annum and hot temperatures ranging between 25-28 in areas like Mukono, Jinja, Masaka, and Entebbe. This is because the lake has contributed to the formation of convectional rainfall through evapotranspiration and due to the influence of land and lake breeze which create a simple convergence zone leading to rain fall formation.
+
+* While those areas with limited water bodies like Kotido, Kaabong and Moroto receive low rainfall amounts less than 750 per annum with very hot temperatures of above 30.
+
+*Relief/Topography.*
+
+* Mountainous/highland areas receive heavy orographic rain fall on the wind ward sides for
+example Mbale, Manafwa, Bududa and bulamburi on mt Elgon. This is due to their ability to disrupt moist winds forcing them to rise, condense and form relief rain fall, which is mainly received on wind ward sides. On the other hand low rain fall amount is received on the leeward sides for example Kasese on Mt Rwenzori, Nakapiripirit on Mt Elgon.
+
+* Plateau areas receive moderate rainfall due to their relatively fat nature, which does not significantly disrupt moisture bearing winds for example in Soroti, Luweero, Isingiro, Gulu, Apac, Arua, and Masindi
+
+* Low lands especially the rift valley floor have a general absence of highlands to trap the winds and therefore receive low rainfall amounts and they are characterized by descending winds which become heated adiabatically leading to very hot temperatures for example in Butiaba, Bulisa, Ntoroko and parts of kasese.
+
+*Altitude.*
+
+* High altitude areas have cool temperatures since temperatures decrease with altitude at the rate of
+1 for every 100 metres ascend for example Bundibugyo, Kabarole, parts of kasese on mt Rwenzori, Mbale, Kapchorwa, Manafwa, Bududa and Kwen on mt Elgon , Kabale and kisoro on Mt Muhavura.
+
+* On the other hand, low altitude areas experience hot temperatures for example Butiaba, Bulisa, Ntoroko Katwe, and Muhokya since they are characterized by descending winds which are heated adiabatically.
+
+*Influence of prevailing winds. The climate of Uganda is affected by three major prevailing winds.*
+
+* The northeast trade winds blowing from Saudi Arabia through Somalia, Ethiopia, to North West Kenya to Karamoja districts of Kaabong Kotido and Moroto.
+
+* It is a dry wind responsible for the
+dry conditions/ low rainfall amounts in the region.
+
+* The southeast trade winds from the Indian Ocean is a moisture laden wind responsible for heavy rain fall around Lake Victoria in Jinja, Mukono, Kampala and Entebbe.
+
+* Equatorial westeries from Democratic Republic of Congo are moisture laden winds responsible for heavy rainfall on the western slopes of highlands in western Uganda for example Bundibugyo on Mt. Rwenzori and Kisoro on Mt Muhavura.
+
+*Latitudinal location.*
+
+* Areas which lie across or near the equator experience equatorial climate where heavy rainfall is received, which is distributed throughout the year with a double maxima in April and October due to apparent overhead sun and the temperatures are warm above 21 due to high attitude of the sun throughout the year in areas like Entebbe, Masaka, Kampala and Jinja.
+
+* On the other hand, areas which are far away from the equator receive moderate seasonal rainfall ranging between 750mm-1500mm per annum received mainly from April to September and dry season from October to march for example in Gulu, Lira, Soroti, Kitgum and Amuru.
+
+*Vegetation Cover.*
+
+* Areas with large tropical rain forests receive heavy rainfall due to evapotranspiration from swamps and forests and temperatures are modified by the moisture released by forests like Budongo forest in Masindi, Mabira forest in Buikwe and South Busoga forests in mayuge.
+
+* Areas with savannah grassland vegetation receive moderate rainfall ranging between 750mm-
+1500mm per annum due to limited rate of evapotranspiration for example Soroti, Kumi, Lira,
+Amuru and Gulu.
+
+* Areas with scanty vegetation cover for example the dry bush savannah in Kaabong, Kotido,
+Moroto, Lyantonde and Kiruhura experience dry condition with low rainfall amounts received bellow 750 per annum due to limited evapotranspiration.
+
+*Global warming/Climate changes.*
+
+* As a result of climate changes the planetary/global winds carry moisture from the melting ice
+sheets of the Polar Regions to the low latitudes where Uganda lies. They drop it as heavy rainfall resulting into El-Nino for example in Mukono, Luweero and Kampala in 1997/1998 or periods of drought (La-Nino).
+
+*Human activities.*
+
+* Human activities like settlement, industrialization and construction of transport route, swamp
+reclamation and agriculture have resulted into the destruction of forests which has resulted into low rainfall formation for example Mabira forest in Buikwe destroyed by sugar corporation of Uganda limited(SCOUL), reclamation of kiruruma swamp in Kabale.
+
+* On the other hand man’s activities like afforestation for example Mafuga and Muko forests in Kabale and katuugo forest in Nakasongola and the government policy of gazzetting forests as forest reserves and wild life reserves such as Mabira forest in Buikwe, Mt Elgon forests in Mbale has led to preservation of forests that have encouraged rainfall formation.

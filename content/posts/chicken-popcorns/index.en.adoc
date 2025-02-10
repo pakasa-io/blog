@@ -1,0 +1,55 @@
+---
+draft: false
+weight: 1
+title: "Brief: recipe for chicken pop corns"
+date: 2025-02-01T21:07:54+03:00
+lastmod: 2025-02-01T21:07:54+03:00
+authors:
+  - Sheillah
+tags:
+  - misc
+categories:
+  - misc
+series:
+series_weight: 1
+searchable: true
+featuredImage: _feature.webp
+featuredImagePreview: _preview.webp
+hiddenFromHomePage: true
+---
+
+*INGREDIENTS*
+
+* 150gm of chicken breasts(cut into small cubes)
+
+* 1/2 teaspoon of black pepper
+
+* 2 pinch of salt.
+
+* 1 teaspoon of royco
+
+* 2 1/2 tablespoons of soya sauce
+
+* 1/2 cup of breadcrumbs
+
+* 1/2 teaspoon of curry powder
+
+* 2 eggs
+
+* 1/4 cup of wheat flour
+
+* Cooking oil for deep-frying.
+
+1 Cup of yoghurt
+
+*PROCEDURE*
+
+* Soak the chicken breasts in yoghurt for 30 minutes
+
+* In the bowl, add the black pepper, salt, royco, curry powder,wheat flour and mix well.
+
+* Take the chicken breasts and mix them in the dry flour mixture then dip into th beaten egg and coat with the breadcrumbs.
+
+* Heat the oil in a pan and deep-fry the chicken breasts on medium heat until golden brown and crispy.
+
+* Drain and serve with a glass of juice.
