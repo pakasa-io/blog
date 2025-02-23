@@ -7,13 +7,13 @@ lastmod: 2025-01-04T18:08:38+03:00
 authors:
   - Sheillah
 tags:
-  - misc
+  - briefs
 categories:
-  - misc
+  - briefs
 series:
 series_weight: 1
 searchable: true
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 Bride wealth is a token gratitude from which the boy’s family pays to the girl’s family in exchange for marriage.  Bride price can be given in material things like cows, goats, clothes, money and many others.

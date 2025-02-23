@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 weight: 1
 title: "Breif: HIV/AIDS"
 date: 2025-01-14T21:00:25+03:00
@@ -7,15 +7,13 @@ lastmod: 2025-01-14T21:00:25+03:00
 authors:
   - Sheillah
 tags:
-  - misc
+  - briefs
 categories:
-  - misc
+  - briefs
 series:
 series_weight: 1
 searchable: true
-featuredImage: _feature.webp
-featuredImagePreview: _preview.webp
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 HIV stands for Human Immunodeficiency Virus, and AIDS stands for Acquired Immunodeficiency Syndrome. HIV is a virus that attacks the immune system, specifically targeting white blood cells that help the body fight infections. If left untreated, HIV can progress to AIDS, which is the most advanced stage of HIV infection where the immune system is severely damaged, making the person vulnerable to various life-threatening infections and cancers.

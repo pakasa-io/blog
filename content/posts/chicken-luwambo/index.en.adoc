@@ -7,15 +7,13 @@ lastmod: 2025-02-02T20:46:45+03:00
 authors:
   - Sheillah
 tags:
-  - misc
+  - briefs
 categories:
-  - misc
+  - briefs
 series:
 series_weight: 1
 searchable: true
-featuredImage: _feature.webp
-featuredImagePreview: _preview.webp
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 Chicken Luwombo is a traditional Ugandan dish that's rich in flavor and often served for special occasions. It's made by stewing chicken in a sauce that's prepared with a blend of ingredients like onions, tomatoes, garlic, and various spices. The dish is uniquely prepared by wrapping the chicken and the sauce in banana leaves, which are then steamed to allow the flavors to infuse. The banana leaves add a subtle earthiness to the dish.
