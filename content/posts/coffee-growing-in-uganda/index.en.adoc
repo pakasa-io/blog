@@ -1,15 +1,15 @@
 ---
 draft: false
 weight: 1
-title: "brief: coffee growing in uganda"
+title: "Brief: coffee growing in uganda"
 date: 2024-12-30T16:13:26+03:00
 lastmod: 2024-12-30T16:13:26+03:00
 authors:
   - Sheillah
 tags:
-  - misc
+  - briefs
 categories:
-  - misc
+  - briefs
 series:
 series_weight: 1
 searchable: true
