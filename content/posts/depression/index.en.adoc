@@ -1,0 +1,42 @@
+---
+draft: true
+weight: 1
+title: "Brief:depression"
+date: 2025-02-22T09:39:48+03:00
+lastmod: 2025-02-22T09:39:48+03:00
+authors:
+  - Sheillah
+tags:
+  - misc
+categories:
+  - misc
+series:
+series_weight: 1
+searchable: true
+featuredImage: _feature.webp
+featuredImagePreview: _preview.webp
+hiddenFromHomePage: true
+---
+
+Depression is a mental health disorder characterized by persistent feeling of sadness, hopelessness, and loss of interest or pleasure in activities. It can affect how a person thinks, feels, and behaves, often leading to emotional and physical problems.
+
+A great number of people both young and old across the world are facing this situation of depression  and are unable to control it.
+
+The symptoms of depression are thoughts of death or suicide, excessive guilt, difficulty in making decisions, changes in appetite and weight, change in sleep patterns, fatigue or low energy,loss of interest in activities once enjoyed, persistent sadness oor low mood
+
+According to World Health Organisation (WHO), link:https:www.who.int/news-room/fact-sheets/detail/depression[who.int] , it is estimated 3.8% of the population experience depression. this is equivalent to 280 million people.
+
+Women are more like to face depression than men. In 2017, the WHO estimated that 5.1% of women and 3.6% of men were facing depression.
+
+5.7% of adults over the age of 60 experience depression.
+
+
+More than  10% of pregnant women and women who have  just given birth experience depression.
+
+The number of people with depression is increasing globally particularly in lower-income countries.
+
+The COVID-19 Pandemic triggered 25% increase in the prevalence of depression across the world.
+
+This depression is most times caused by different situations and those include family history of depression, chronic illness or pain, substance or drug abuse, trauma or stressful life events, hormonal changes, brain chemistry imbalance among others.
+
+However, depression can be treated through therapy, medication, lifestyle changes, mindfulness and relaxation techniques.
