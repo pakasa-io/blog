@@ -18,4 +18,25 @@ featuredImagePreview: _preview.webp
 hiddenFromHomePage: true
 ---
 
-Gulu city is a major urban center in the northern Uganda. It is a commercial and administrative centre of Gulu district.
+Gulu is a city in the Northern Region of Uganda, serving as the commercial and administrative center of Gulu District. It is located about 333 kilometers (207 miles) north of Kampala, Uganda's capital and largest city, and has an elevation of 1,100 meters (3,600 feet). The city consists of two main divisions, Gulu East and Gulu West
+
+The city has a population of 146,856 as of the 2024 census.
+It is situated in the Acholi sub-region and is part of the historical homeland of the Acholi ethnic group.
+
+Gulu has a tropical wet and dry climate. The city has hot and cool seasons,and cool seasons, and receives a lot of rain during the rainy season. link:https://weatherspark.com[weatherspark], hot season in January, 17 to March 27, Average high  temperature above 93°F and March is the hottest with an average high of 94°F.
+
+Cool season in May, 11 to September, 30, Average high temperature below 83°F and July is the coldest month with an average low of 64°F. link:https://www.scrip.org[scrip.org]
+
+Gulu is susceptible too flooding during the rainy season and paved surface and removal of vegetation contributes to runoff and flooding.
+
+It is analysed by link:https://www.arounduganda.com/cities/gulu[arounduganda.com] that Gulu is a rich cultural tapestry. The traditions and  customs of the Acholi people passed down through generations forrm an integral part of city's identity.
+
+The Acholi music and dance are important cultural aspects oof Gulu. The Bwola dance, performed by Acholi chiefs, and the Larakaraka dance, often performed during marriage ceremonies, are some of the city's vibrant cultural heritage.
+
+The traditional Acholi cuisine is another facet of Gulu's rich culture. Signature dishes such as 'malakwang' (a sour vegetable sauce) and 'boo'(millet bread), coupled with Acholi chicken stew, are integral parts of the city's culinary landscape.
+
+Gulu has a rich cultural heritage and a turbulent history, including periods of British colonial rule and the Lord's Resistance Army insurgency.
+
+Despite these challenges, the city has shown resilience and continues to develop, with recent improvements in infrastructure such as the Gulu Water Supply and Sanitation Project.
+
+
