@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 weight: 1
 title: "Brief: land purchase"
 date: 2025-02-26T20:14:42+03:00
