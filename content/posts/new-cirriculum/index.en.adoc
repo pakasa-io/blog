@@ -18,4 +18,3 @@ featuredImagePreview: _preview.webp
 hiddenFromHomePage: true
 ---
 
-content goes here

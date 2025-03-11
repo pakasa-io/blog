@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 weight: 1
-title: "Index"
+title: "brief:Gulu city"
 date: 2025-02-26T20:14:09+03:00
 lastmod: 2025-02-26T20:14:09+03:00
 authors:
