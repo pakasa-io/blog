@@ -7,15 +7,13 @@ lastmod: 2025-02-26T20:14:42+03:00
 authors:
   - Sheillah
 tags:
-  - misc
+  - briefs
 categories:
-  - misc
+  - briefs
 series:
 series_weight: 1
 searchable: true
-featuredImage: _feature.webp
-featuredImagePreview: _preview.webp
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 Land purchase in Kalani zone located in Salaama parish along Salaama and Kulekana road in Makindye Sub-county Kampala district. Information collected from Mr Mukasa Micheal Selabata Area Chairman.

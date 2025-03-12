@@ -1,21 +1,19 @@
 ---
-draft: true
+draft: false
 weight: 1
-title: "Brief: buganda kingship"
+title: "Brief: Buganda kingship"
 date: 2025-02-15T14:30:38+03:00
 lastmod: 2025-02-15T14:30:38+03:00
 authors:
   - Sheillah
 tags:
-  - misc
+  - briefs
 categories:
-  - misc
+  - briefs
 series:
 series_weight: 1
 searchable: true
-featuredImage: _feature.webp
-featuredImagePreview: _preview.webp
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 Kingship refers to the position or office of a king, often involving the leadership and governance of a kingdom or state.
