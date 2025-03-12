@@ -1,0 +1,21 @@
+---
+draft: true
+weight: 1
+title: "Index.sw"
+date: 2025-03-11T15:25:13+03:00
+lastmod: 2025-03-11T15:25:13+03:00
+authors:
+  - Sheillah
+tags:
+  - misc
+categories:
+  - misc
+series:
+series_weight: 1
+searchable: true
+featuredImage: _feature.webp
+featuredImagePreview: _preview.webp
+hiddenFromHomePage: true
+---
+
+maudhui huenda hapa
