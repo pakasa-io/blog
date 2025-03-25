@@ -20,9 +20,169 @@ hiddenFromHomePage: true
 
 The government rolled out the new lower secondary educa­tion curriculum in February 2020 with the aim of creating meeting the learners’ needs especially in regard to skills training and enhancement. The Minister for Education, Hon. Janet Museveni, in her statement to Parliament, said that the need to review the curriculum was overdue since it had not been revisited since the colonial education system was introduced. The Minister revealed that the old curriculum was channelling out graduates with no practical skills to meet the demands in the labour market.
 
-The National Curriculum Development Centre has made adjustments in the teaching sub­jects for the lower sec­ondary, for ex­am­ple, teach­ing sub­jects have been re­duced from 43 to 21. In the new ap­proved cur­ricu­lum, schools will teach 12 sub­jects at Se­nior One and Two, out of which 11 will be com­pul­sory while one will be from an elec­tive menu (op­tional). Stu­dents at lev­els Three and Four will exit with a min­i­mum of eight or a max­i­mum of nine sub­jects with seven of them com­pul­sory.
+The National Curriculum Development Centre has made adjustments in the teaching sujects for the lower secondary, for example, teaching subjects have been reduced from 43 to 21. In the new approved curriculum, schools will teach 12 subjects at Senior One and Two, out of which 11 will be compulsory while one will be from an elective menu (optional). Students at levels Three and Four will exit with a minimum of eight or a maximum of nine subjects with seven of them compulsory.
 
-Con­se­quently, some sub­jects have taken dif­fer­ent forms: Mu­sic has now in­cluded dance and drama to be­come Per­form­ing Arts; Fine Art has been re­designed to in­clude el­e­ments of de­sign and it is now called Art and De­sign; Tech­ni­cal Draw­ing has been integrated with elements of woodwork and metalwork and technology and it is now called Technology and Design; History has been integrated with Political Education; Accounts and Commerce have been integrated in Entrepreneurship education, and History has been integrated with Political Education.
+Consequently, some subjects have taken different forms: Music has now included dance and drama to become Performing Arts; Fine Art has been redesigned to include elements of design and it is now called Art and Design; Technical Drawing has been integrated with elements of woodwork and metalwork and technology and it is now called Technology and Design; History has been integrated with Political Education; Accounts and Commerce have been integrated in Entrepreneurship education, and History has been integrated with Political Education.
 
-Under the new curriculum, teachers will compile the learners’ achievements under the Formative Assessment in the four-year cycle, find an average score and submit it to the Uganda National Examinations Board to contribute at least 20 per cent in the final national examinations grading. The Chinese language has been added to the menu of foreign languages while Kiswahili, Physical Education and entrepreneurship will be compulsory for all stdents in Senior One and Two.
+Under the new curriculum, teachers will compile the learners’ achievements under the Formative Assessment in the four-year cycle, find an average score and submit it to the Uganda National Examinations Board to contribute at least 20 per cent in the final national examinations grading. The Chinese language has been added to the menu of foreign languages while Kiswahili, Physical Education and entrepreneurship will be compulsory for all students in Senior One and Two.
 
+*What was the aim of introducing a new curriculum in Uganda?*
+
+The aim of introducing a new curriculum in Uganda was to better align the education system with the needs of the 21st century and improve the quality of learning for students. The main objectives included:
+
+1. **Enhancing Practical Skills**: The new curriculum focuses on equipping students with practical skills that are relevant to real-life situations and the job market, rather than just theoretical knowledge. This approach is intended to make students more employable and capable of contributing to Uganda’s development.
+
+2. **Promoting Critical Thinking and Creativity**: The curriculum aims to foster critical thinking, creativity, and problem-solving skills, encouraging students to be innovative and adaptable in a fast-changing world.
+
+3. **Improving Learning Outcomes**: By emphasizing a more learner-centered approach, the new curriculum seeks to improve engagement, retention, and overall learning outcomes. It encourages active participation from students, making learning more relevant and enjoyable.
+
+4. **Catering to Diverse Learners**: The curriculum was designed to cater to the needs of diverse learners by promoting inclusive education. It includes content and methodologies that consider the varying needs of students in terms of learning abilities, gender, and socio-economic backgrounds.
+
+5. **Integrating Technology**: It also integrates technology into the learning process to ensure that students are prepared for a digital future, aligning with global trends in education.
+
+6. **Promoting National Values and Character Development**: The new curriculum includes an emphasis on building good character, promoting values such as respect, discipline, and patriotism, which are seen as vital for the nation’s progress.
+
+*What was the benefit of the new curriculum?* (https://ugandamediacentreblog.wordpress.com/2020/02/12/brief-on-the-lower-secondary-curriculum/[ugandamediacentreblog.wordpress.com])
+
+* Promote effective learning and acquisition of skills by developing a curriculum that builds meta-cognitive abilities and skills so that individuals are better placed to adapt to their evolving roles in society and the dynamic workplace.
+
+*  Reduce subject and content overload
+
+* Address the needs of all students and lay a foundation for improved pedagogy and assessment procedures that allow learners to realise their full potential more effectively.
+
+* Address the social and economic needs of the country by meeting the educational needs of the learners aspiring for higher academic learning as well as those that wish to transit to the labour market.
+
+* Allow flexibility to absorb emerging fields of knowledge in the areas of Science and Technology.
+
+* Address the 21st-century skills required in the world of work.
+
+* Address issues of wastage with regard to utilization of resources (teachers, school facilities/space, and instructional materials) so as to ensure efficiency.
+
+*What is the grading of the Uganda's new curriculum?*
+
+The new curriculum in Uganda uses a grading system that is competency-based and differs from the traditional percentage-based system. Under this new system, learners are assessed on a scale of three levels: one, two, and three, which are out of a cumulative mark of 20% for continuous assessment (CA) throughout their secondary education. link:https://www.monitor.co.ug/uganda/news/national/how-new-curriculum-will-affect-s-3-students-4076186[monitor.co.ug]
+
+The final grade for the Uganda Certificate of Education (UCE) is calculated by combining the continuous assessment marks (20%) with the end-of-cycle examination scores (80%).
+The overall score is then presented with a letter grade (A, B, C, D, or E) for each subject, indicating the learner's level of achievement. link:https://www.africa-newsroom.com/press/uganda-minister-clarifies-new-curriculum-grading?lang=en[africa-newsroom.com]
+
+The grading scale is as follows:
+
+* A: Exceptional
+
+* B: Outstanding
+
+* C: Satisfactory
+
+* D: Basic
+
+* E: Elementary
+
+This new system aims to ensure that learners gain knowledge, understanding, skills, values, and a positive attitude for the world of work, focusing more on practical proficiency and problem-solving skills rather than just memorizing information for examinations.
+
+*What was the aim of introducing project work in the new curriculum of Uganda?*
+
+The new curriculum in Uganda aimed to reduce content overload and contact hours in the classroom, creating more time for research and project work, as well as talent development and creativity.This change was intended to foster a more dynamic and engaging learning environment for students. link: https://rightforeducation.org/2022/07/07/curriculum-bright-future/[rightforeducation.org].
+
+*What are challenges in the Uganda's new curriculum?*
+
+* Lack of Adequate Training for Teachers: One of the significant challenges is the lack of sufficient and effective training for teachers. Many teachers have not been adequately prepared to implement the new curriculum, which emphasizes practical skills, critical thinking, and student-centered learning. The shift from traditional teaching methods to more interactive and learner-centered approaches can be difficult without proper professional development.
+
+* Inadequate Learning Resources: The curriculum requires significant resources, including updated textbooks, teaching aids, and classroom materials. However, many schools, especially in rural areas, still face shortages of these resources. The absence of these materials can hinder effective delivery of the curriculum.
+
+* Resistance to Change: Some educators, parents, and even students have shown resistance to the changes brought by the new curriculum. In some cases, the transition from the previous system to the new curriculum has created confusion or reluctance among stakeholders who are accustomed to traditional methods of teaching and assessment.
+
+* Overcrowded Classrooms: Many schools in Uganda continue to face issues of overcrowded classrooms, making it difficult for teachers to engage students individually and implement the new curriculum effectively. The larger the class size, the harder it becomes to focus on each student’s individual needs and competencies.
+
+* Infrastructural Limitations: In many schools, especially in remote areas, there are infrastructural challenges. Many schools lack the necessary classrooms, desks, sanitation facilities, and access to electricity, all of which are essential for the successful implementation of the new curriculum.
+
+* Limited Focus on Vocational Skills: While the new curriculum emphasizes vocational skills and competencies, there is still a significant gap in terms of infrastructure and equipment to support vocational training. The lack of well-equipped technical schools and training centers in many regions limits the ability to implement this aspect of the curriculum fully.
+
+* Assessment Challenges: The curriculum focuses on continuous assessment, rather than relying solely on exams. However, there are challenges in implementing these assessment methods, including the lack of appropriate tools and training to conduct continuous assessment in schools. Teachers may not be equipped to assess students' competencies in practical ways.
+
+* Financial Constraints: Implementing a new curriculum requires significant investment in terms of funding for teacher training, resources, and infrastructure. The financial constraints facing Uganda's education system, especially in government schools, create difficulties in fully rolling out the curriculum across all schools in the country.
+
+* Cultural Barriers: The new curriculum encourages critical thinking and expression, which may sometimes conflict with local cultural norms, where respect for authority figures and traditional ways of thinking are emphasized. Overcoming these cultural barriers to foster more open discussion and critical engagement is a challenge.
+
+* Uneven Implementation Across the Country: There are significant disparities between urban and rural schools, and these inequalities often affect the effective implementation of the new curriculum. Urban schools tend to have more resources and better-trained teachers, while rural schools struggle to keep up due to limited resources and infrastructure.
+
+*How can the challenges to the Uganda's Curriculum be solved?*
+
+1 . **Teacher Training and Professional Development**
+
+*Solution:* There needs to be an extensive and continuous professional development program for teachers to equip them with the skills necessary to implement the new curriculum effectively. This training should focus on pedagogical techniques, learner-centered teaching, competency-based education, and assessment methods.
+
+*Action:* The government and educational institutions should invest in training programs that are consistent and accessible for teachers in both urban and rural areas. Online platforms for teacher training could also be explored to reach a broader audience.
+
+2 . **Provision of Adequate Learning Resources**
+
+*Solution:* To ensure that the new curriculum is effective, there must be sufficient educational resources, including textbooks, learning materials, and teaching aids.
+
+*Action:* The government could allocate more funds to schools for buying textbooks and educational resources. Partnerships with non-governmental organizations, the private sector, and international donors could also help bridge the resource gap. Additionally, schools should be encouraged to integrate technology into learning (e.g., through digital resources, e-learning platforms).
+
+3 . *Community Engagement and Awareness*
+
+*Solution:* Engaging parents, communities, and other stakeholders is critical to reduce resistance and increase understanding of the new curriculum.
+
+*Action:* Schools and the Ministry of Education can organize awareness campaigns for parents and communities, explaining the benefits of the curriculum and how it helps their children. Holding community meetings and workshops could ensure that parents and the public are well-informed and can support the new curriculum.
+
+4 . ***Addressing Overcrowded Classrooms**
+
+*Solution:* Reducing class sizes would make it easier for teachers to implement the new curriculum effectively and provide individual attention to students.
+
+*Action:* The government could prioritize the construction of new classrooms or provide incentives for private investments in education infrastructure. Alternatively, alternative modes of learning, such as digital learning or blended learning, could be utilized to reduce physical classroom congestion.
+
+5 . **Improving School Infrastructure**
+
+*Solution:* Schools, especially in rural areas, require better infrastructure, such as classrooms, sanitation facilities, electricity, and internet access to effectively implement the new curriculum.
+
+*Action:* The government, in collaboration with development partners, could invest in modernizing school infrastructure, including providing electricity, clean water, and the necessary equipment. There could also be incentives for public-private partnerships to support infrastructure development.
+
+6 . *Strengthening Vocational Education and Training (TVET)*
+
+*Solution:* To realize the potential of the new curriculum in promoting vocational skills, there must be investment in technical schools, vocational training centers, and equipment.
+
+*Action:* The government should invest more in Vocational Education and Training (TVET) institutions and ensure they are well-equipped with tools and technology. Partnerships with the private sector could also provide opportunities for apprenticeships and skills training in real-world settings.
+
+7 . *Developing a Robust and Reliable Assessment System*
+
+*Solution:* A continuous assessment system needs to be developed with clear guidelines and tools that allow teachers to evaluate students' competencies effectively.
+
+*Action:* The Ministry of Education could create a national framework for continuous assessment, including rubrics and standardized tools. Teachers can be trained on how to conduct formative assessments and track students' progress throughout the academic year. Digital platforms could also be used for assessments to make the process more efficient.
+
+8 . *Addressing Financial Constraints*
+
+*Solution:* Adequate funding is essential for the effective implementation of the curriculum. The government and other stakeholders must prioritize education in the national budget.
+
+*Action:* The Ugandan government could increase the education budget or allocate more funds to schools, particularly those in disadvantaged areas. Additionally, the government can seek external funding from international organizations or partners, as well as create incentive schemes for private sector involvement in education.
+
+9 . **Tackling Cultural Barriers**
+
+*Solution:* The new curriculum's emphasis on critical thinking and student expression may face cultural resistance, but these aspects can be integrated in culturally sensitive ways.
+
+*Action:* Schools could work with local leaders, cultural institutions, and community elders to ensure that the curriculum respects local traditions while promoting critical thinking and openness. Teachers could be trained to incorporate local context and cultural understanding into lessons that encourage open discussion and respectful debate.
+
+10 . **Ensuring Equitable Access Across the Country.**
+
+*Solution:* The disparity between urban and rural schools needs to be addressed to ensure that all students have access to quality education under the new curriculum.
+
+*Action:* The government should implement policies that target resource allocation to underserved areas, including rural schools. A nationwide monitoring system can be set up to ensure that every school, regardless of location, receives the necessary support. Digital education platforms and e-learning could also be scaled up in rural areas to bridge the gap.
+
+11.** Public-Private Partnerships**
+
+*Solution:* Collaboration between the government and private organizations can support curriculum implementation by providing additional resources, expertise, and infrastructure.
+
+*Action:* The government can incentivize private companies to invest in education, whether through funding, resources, or partnerships in vocational training. This collaboration could help develop an education system that is more inclusive, innovative, and adaptable.
+
+*Remarks about the Uganda's new Curriculum.*
+
+Uganda's new curriculum, introduced in 2020, is a competence-based curriculum (CBC) designed to foster quality learning and prepare students for modern society and the world of work. It emphasizes problem-solving, practical skills, and talent development over rote learning, aiming to reduce content overload and create more time for research and project work.
+
+The curriculum is intended to be more inclusive and adaptable to different student abilities, focusing on broad themes rather than specific subjects. It aims to ensure that learners acquire the knowledge and skills needed for success in contemporary society and lay a foundation for further education and employment.
+
+However, the implementation of the CBC has faced challenges, including inadequate teacher training and resource shortages. Teachers have expressed concerns about the timely availability of textbooks and manuals, which can affect the curriculum's effectiveness.
+
+Despite these challenges, the new curriculum is seen as a step towards improving Uganda's education system and aligning with Vision 2040, which envisions a more literate, numerate, and skilled population.
+
+The Ministry of Education and Sports is also developing a new A-Level competence-based curriculum, expected to be rolled out the following year to ensure a smooth transition for students moving from lower secondary to upper secondary education.
+
+Overall, the new curriculum represents a significant shift in educational approach, aiming to equip students with the competencies needed for future success while addressing some of the limitations of the previous subject-based curriculum. link:https://www.researchgate.net/publication/341670833_UGANDA'S_NEW_LOWER_SECONDARY_SCHOOL_CURRICULUM_MOVING_TOWARDS_A_COMPETENT_AND_QUALITY_EDUCATION_SYSTEM_Policy_Review[researchgate.net].
