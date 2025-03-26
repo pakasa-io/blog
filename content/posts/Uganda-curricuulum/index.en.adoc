@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 weight: 1
-title: "brief:Uganda Curriculum"
+title: "brief:Uganda New Curriculum"
 date: 2025-03-20T14:23:35+03:00
 lastmod: 2025-03-20T14:23:35+03:00
 authors:
