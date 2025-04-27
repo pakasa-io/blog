@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 weight: 1
 title: "Brief: bodaboda riders in Uganda"
 date: 2025-04-07T03:23:12+03:00
