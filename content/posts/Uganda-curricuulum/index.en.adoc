@@ -13,9 +13,7 @@ categories:
 series:
 series_weight: 1
 searchable: true
-featuredImage: _feature.webp
-featuredImagePreview: _preview.webp
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 The government rolled out the new lower secondary educa­tion curriculum in February 2020 with the aim of creating meeting the learners’ needs especially in regard to skills training and enhancement. The Minister for Education, Hon. Janet Museveni, in her statement to Parliament, said that the need to review the curriculum was overdue since it had not been revisited since the colonial education system was introduced. The Minister revealed that the old curriculum was channelling out graduates with no practical skills to meet the demands in the labour market.

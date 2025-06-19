@@ -1,21 +1,19 @@
 ---
-draft: true
+draft: false
 weight: 1
-title: "Index"
+title: "Brief: Road Naming"
 date: 2025-04-30T02:47:11+03:00
 lastmod: 2025-04-30T02:47:11+03:00
 authors:
   - Sheillah
 tags:
-  - misc
+  - briefs
 categories:
-  - misc
+  - briefs
 series:
 series_weight: 1
 searchable: true
-featuredImage: _feature.webp
-featuredImagePreview: _preview.webp
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 A road is any way open to the public for the circulation of vehicles which is maintained by the government or an administration.

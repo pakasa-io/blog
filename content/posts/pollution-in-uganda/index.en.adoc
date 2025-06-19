@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 weight: 1
 title: "Brief: Pollution n uganda"
 date: 2025-04-28T00:09:22+03:00
@@ -13,9 +13,7 @@ categories:
 series:
 series_weight: 1
 searchable: true
-featuredImage: _feature.webp
-featuredImagePreview: _preview.webp
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 When you think of Uganda, you probably picture green hills, beautiful lakes, and colorful markets_and you're right. Uganda is blessed with breathtaking beauty and rich natural resources. But there's a side we don't talk about enough and that is pollution.

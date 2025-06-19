@@ -1,9 +1,19 @@
 ---
-title: "Brief: Inheritance in Uganda "
-_build:
-  render: never
-  list: never
-  publishResources: false
+draft: false
+weight: 1
+title: "Brief: Inheritance in Uganda"
+date: 2025-05-29T21:00:25+03:00
+lastmod: 2025-05-29T21:00:25+03:00
+authors:
+  - Sheillah
+tags:
+  - briefs
+categories:
+  - briefs
+series:
+series_weight: 1
+searchable: true
+hiddenFromHomePage: false
 ---
 When a loved one passes away, dealing with inheritance can be one of the most emotional and complex experiences for a family. In Uganda, inheritance of property is governed by a mix of statutory law, customary practices, and evolving social norms. Whether or not a will is in place, understanding the basics of inheritance law can save families from unnecessary conflict and protect the rights of dependents.
 
