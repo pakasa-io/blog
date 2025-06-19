@@ -1,0 +1,80 @@
+---
+draft: false
+weight: 1
+title: "Brief: Inheritance in Uganda"
+date: 2025-05-29T21:00:25+03:00
+lastmod: 2025-05-29T21:00:25+03:00
+authors:
+  - Sheillah
+tags:
+  - briefs
+categories:
+  - briefs
+series:
+series_weight: 1
+searchable: true
+hiddenFromHomePage: false
+---
+When a loved one passes away, dealing with inheritance can be one of the most emotional and complex experiences for a family. In Uganda, inheritance of property is governed by a mix of statutory law, customary practices, and evolving social norms. Whether or not a will is in place, understanding the basics of inheritance law can save families from unnecessary conflict and protect the rights of dependents.
+
+*The Legal Backbone: The Succession Act*
+
+Uganda's primary law on inheritance is the *Succession Act (Cap. 162). It governs how property is passed on when someone dies — with or without a will. If a person leaves a valid will (testate succession), their property is distributed according to their wishes. Without a will (intestate succession), the law outlines how property should be shared among the spouse, children, and other relatives. link:https://www.ugandalaws.com/statutes/principle-legislation/succession-act.[ugandalaws.com].
+
+The Act applies to both movable and immovable property, with succession to immovable property in Uganda being regulated by Ugandan law, regardless of the deceased's domicile. For movable property, succession is governed by the law of the country where the deceased had their domicile at the time of death.
+
+The Succession Act was revised and consolidated as of December 31, 2000, and has been further amended as of December 31, 2023. A significant amendment was made in 2022 with the Succession (Amendment) Act, which aimed to address gender disparities and ensure equality between spouses in the distribution of property. link:https://cepiluganda.org/news-blog/the-succession-amendment-bill-2018-is-being-considered-by-parliament-once-again/[cepiluganda].
+
+The Succession Act of Uganda, which is the statutory law governing inheritance, also reflects these biases. According to the Act, the eldest son of the deceased is entitled to inherit the matrimonial home, and the definition of a "legal heir" includes a preference for males over females in certain circumstances.
+
+*What Happens Without a Will?* link:https://trustandwill.com/learn/dying-without-a-will[trustandwill.com]
+
+Many Ugandans still die without a written will. In such cases, the law kicks in to determine who gets what:
+
+* *Spouse:* Receives 20% of the estate.
+
+* *Children:* Share 75% of the estate.
+
+* *Dependent relatives:* Get 5%.
+
+If no children are involved, other relatives, such as siblings or parents, may receive larger shares. An *administrator* is appointed to manage the process, which is supervised by the court.
+
+*Customary Law on Inheritance*
+
+Customary law in Uganda often favors male heirs over female heirs in matters of inheritance. Under customary practices, women are typically not allowed to own property, and upon the death of a husband, his home is usually passed on to a male member of his family rather than his widow or children. This is because customary laws and practices place women in an inferior position, preventing them from inheriting their matrimonial home. link:https://www.researchgate.net/publication/266008986_The_Impact_of_Customary_Laws_on_Inheritance_A_case_study_of_widows_in_urban_Uganda[researchgate.net].
+
+Customary laws continue to operate in many communities, often superseding statutory laws in practice. Therefore, while statutory laws may provide for gender equality, widows and children may still face challenges in inheriting property due to the influence of customary laws.
+
+Courts have ruled that customary practices cannot override the constitutional right to equality, but enforcement remains inconsistent.
+
+*Inheritance Disputes: A Common Challenge*
+
+Land grabbing, forged documents, and family conflicts are all too common after someone dies. Women and children are especially vulnerable, often forced off land or denied property rights. Lack of legal knowledge and poor documentation makes the situation worse.
+
+Legal aid organizations and courts play a key role in resolving such disputes — but prevention is always better than cure.
+
+*Why Everyone Should Consider Making a Will*
+
+Writing a will isn’t just for the wealthy. It’s a simple, powerful way to:
+
+* Ensure your property goes to the right people.
+
+* Protect vulnerable dependents.
+
+* Reduce family conflicts after your death.
+
+A valid will in Uganda must be written, signed, and witnessed. It should also name an *executor* who will carry out your wishes.
+
+*The Way Forward*
+
+Uganda is making progress in reforming inheritance laws to be more fair and inclusive. But more public awareness is needed. People should be encouraged to make wills, understand their rights, and challenge unfair practices.
+
+At the end of the day, inheritance isn’t just about property — it’s about dignity, justice, and family harmony.
+
+*Have you written your will yet? It might just be the most important document you ever write.*
+
+
+
+
+
+
