@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 weight: 1
 title: "Index"
 date: 2025-05-03T09:36:05+03:00
@@ -13,8 +13,6 @@ categories:
 series:
 series_weight: 1
 searchable: true
-featuredImage: _feature.webp
-featuredImagePreview: _preview.webp
 hiddenFromHomePage: true
 ---
 
