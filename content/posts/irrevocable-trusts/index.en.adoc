@@ -20,6 +20,12 @@ hiddenFromHomePage: true
 
 An irrevocable trust is a legal arrangement where the grantor transfers ownership of assets to the trust, and these assets are no longer under the grantor's control. Once established, an irrevocable trust is very difficult to change or dissolve, as the grantor forfeits ownership and authority over the trust and its assets, meaning they cannot make any changes without permission from the beneficiary or a court order.
 
+In this case a lawyer can act as the trustee of the trust. This can be done to avoid misunderstandings among the relatives of the grantor.
+
+In uganda there are many firm of lawyers that can help one on the right choice f a trust and these include;
+
+* The firm is located at BMK House, 4th Floor, Suite No. 402, Plot 4-5 Nyabong Road, Wampewo Avenue, Kampala, Uganda, and can be contacted at +256 774 477656. link:https://lawfirmsinuganda.ug/[lawfrimsinuganda]
+
 *How does irrevocable trusts differ from revocable trusts?*
 
 * Irrevocable trusts differ from revocable trusts primarily in terms of control, modification, and tax implications. In a revocable trust, the grantor retains full control over the assets and can modify or revoke the trust at any time during their lifetime. In contrast, once assets are transferred into an irrevocable trust, the grantor generally relinquishes control, and the terms of the trust cannot be changed without the consent of the beneficiaries or court approval. link:https://www.mondaq.com/unitedstates/wills-intestacy-estate-planning/1637936/revocable-vs-irrevocable-trusts-which-one-is-right-for-you[mondaq.com]
@@ -93,5 +99,6 @@ Consulting with experienced legal and financial professionals is vital to ensure
 
 In conclusion, while irrevocable trusts are not for everyone, they are powerful tools for long-term planning, especially for those looking to reduce taxes, protect assets, and control wealth distribution. Legal guidance is crucial when creating one.
 
+But however, if I would recommend one to write a trust I recommend him to write a  revocable trust because it is flexible. But on  the other side if a person is looking for asset protection and tax benefits then I would recommend an irrevocable trust.
 
 
