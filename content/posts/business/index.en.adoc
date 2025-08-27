@@ -13,7 +13,7 @@ categories:
 series:
 series_weight: 1
 searchable: true
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 Starting a business in Kampala is an exciting opportunity—Uganda’s capital is a bustling economic hub with growing potential for entrepreneurs in various sectors. However, to operate legally and enjoy the full benefits of formal business ownership, registration is a crucial first step.

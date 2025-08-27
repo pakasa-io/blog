@@ -1,7 +1,7 @@
 ---
 draft: false
 weight: 1
-title: "brief: How tiktok is changing youth culture in uganda."
+title: "Brief: How tiktok is changing youth culture in uganda."
 date: 2025-08-11T18:35:40+03:00
 lastmod: 2025-08-11T18:35:40+03:00
 authors:
@@ -13,7 +13,7 @@ categories:
 series:
 series_weight: 1
 searchable: true
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 In Uganda, TikTok isn’t just another social media app, it’s a movement. From viral Luganda dance challenges to political satire that spreads faster than the latest gossip, the platform has become a digital playground for creativity, connection, and change. For Uganda’s youth, it’s where music careers are launched, side hustles find customers, and cultural identity gets a global spotlight. Love it or hate it, TikTok is rewriting the script on what it means to be young, bold, and online in Uganda.

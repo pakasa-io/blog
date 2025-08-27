@@ -13,7 +13,7 @@ categories:
 series:
 series_weight: 1
 searchable: true
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 Revocable Trust is a legal entity created to hold and manage your assets during your lifetime and distribute them after your death without going through probate. You can change or cancel it anytime while you're alive and competent. It offers privacy and continuity if you become incapacitated but doesn't protect assets from creditors or reduces taxes.

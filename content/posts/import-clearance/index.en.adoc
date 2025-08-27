@@ -13,7 +13,7 @@ categories:
 series:
 series_weight: 1
 searchable: true
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 Bringing goods into Uganda can be exciting, especially for business. But before your items reach your shop or warehouse, they must go through a process called customs and clearance. This involves checking your goods, filling out the right documents, and paying any taxes or duties required by the Uganda Revenue Authority (URA).

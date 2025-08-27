@@ -13,7 +13,7 @@ categories:
 series:
 series_weight: 1
 searchable: true
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 Depression is a mental health disorder characterized by persistent feeling of sadness, hopelessness, and loss of interest or pleasure in activities. It can affect how a person thinks, feels, and behaves, often leading to emotional and physical problems.

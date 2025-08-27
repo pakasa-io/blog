@@ -13,7 +13,7 @@ categories:
 series:
 series_weight: 1
 searchable: true
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 An irrevocable trust is a legal arrangement where the grantor transfers ownership of assets to the trust, and these assets are no longer under the grantor's control. Once established, an irrevocable trust is very difficult to change or dissolve, as the grantor forfeits ownership and authority over the trust and its assets, meaning they cannot make any changes without permission from the beneficiary or a court order.
