@@ -13,7 +13,7 @@ categories:
 series:
 series_weight: 1
 searchable: true
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 Uganda’s urban centers are always on the move, and nowhere is this more visible than in Kampala, where traffic jams are a part of daily life. For years, boda bodas, the ever-present motorcycle taxis have been the fastest and most flexible way to navigate the city’s busy streets. They offer quick rides and access to places larger vehicles can’t reach, making them the heartbeat of urban transport.

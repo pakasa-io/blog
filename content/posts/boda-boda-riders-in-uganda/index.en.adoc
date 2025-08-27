@@ -13,7 +13,7 @@ categories:
 series:
 series_weight: 1
 searchable: true
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 A boda-boda is a bicycle or motorcycle used as a taxi or form of transport. Most of the people in Uganda use boda-bodas as their main mean of transport to move from one place to another together with their goods and services.

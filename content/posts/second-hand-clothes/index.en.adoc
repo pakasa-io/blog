@@ -13,7 +13,7 @@ categories:
 series:
 series_weight: 1
 searchable: true
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 In Uganda, fashion doesn’t have to come with a big price tag, and it certainly doesn’t have to be brand new. From the busy stalls of Owino Market to roadside vendors in every town, mivumba (second-hand clothes) have become a trusted wardrobe staple for millions. Whether it’s a stylish blazer from Europe, a vintage tee from America, or designer jeans at a bargain, Ugandans wear their mivumba with confidence and pride. But beyond just clothing, the second-hand trade is a story of survival, creativity, and culture woven into the fabric of everyday life.

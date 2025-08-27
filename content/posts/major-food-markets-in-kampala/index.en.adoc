@@ -13,7 +13,7 @@ categories:
 series:
 series_weight: 1
 searchable: true
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 ---
 
 If you’ve ever walked through the heart of Kampala, you know the city’s food markets are more than just places to shop,  they’re full of life, color, and character. From early morning vegetable deliveries to the lively bargaining between buyers and vendors, Kampala’s major food markets are at the center of daily life for many Ugandans. Whether you're hunting for the freshest matooke, a basket of juicy mangoes, or some well-priced dry beans, these markets have it all. But beyond the goods, they’re also hubs of culture, connection, and economic survival. In this post, we’ll take a closer look at some of the biggest food markets in Kampala, what makes each one unique, why they matter, and the challenges they face today.
