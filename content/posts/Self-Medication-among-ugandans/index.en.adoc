@@ -18,4 +18,26 @@ featuredImagePreview: _preview.webp
 hiddenFromHomePage: true
 ---
 
-content goes here
+Self-medication refers to the independent selection and utilization of medicines by individuals for self-recognized ailments or symptoms.This practice extends beyond modern pharmaceuticals, incorporating traditional remedies like herbal preparations
+
+In Uganda, it’s pretty common to skip the clinic and treat yourself when you’re not feeling well. Maybe it’s popping a few painkillers for a headache, taking leftover antibiotics from a past prescription, or getting advice from a friend who “had the same symptoms.” It feels cheaper, faster, and more convenient right. But behind this habit are a lot of myths and hidden risks that many people don’t think about. In this post, we’ll break down the common beliefs around self-medication, separate facts from fiction, and talk about the real dangers that come with it.
+
+A total of 9113 participants were represented across different demographics and regions of Uganda. Our analysis revealed a 55.63%  pooled prevalence of self-medication in Uganda. Antibiotics are the commonly self-medicated drugs and ease of access to medications, perceived cost-effectiveness, long hospital waiting time, home storage of drugs (leftovers), and perceptions of minor illnesses were key contributors to self-medication behaviour. link:https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-025-21380-9[bmcpublichealth.]
+
+*Commonly self‑medicated drugs in Uganda.*
+
+The most commonly self-medicated drugs in Uganda are antibiotics, antimalarials, and,painkillers/analgesics, which account for 77.3%, 22.7%, and 18.2% of reported cases, respectively.
+Antibiotics are the most frequently used, with amoxicillin being the most commonly self-medicated antibiotic, reported in 51.3% of cases in Otuke District and 65% among medical students in Eastern Uganda.
+
+Other frequently used antibiotics include ampiclox (33.3%), metronidazole (21.9% to 64.1%), and ciprofloxacin (16.1%).Antimalarials, particularly coartem, are also commonly self-medicated, with a prevalence of 27.3% in northern Uganda.
+
+*Reasons for self-medication in Uganda.*
+
+Key among Ugandans’ reasons for self-medication are
+socio-economic and infrastructural constraints, including poverty, limited access to healthcare facilities, and long waiting times. These factors have been corroborated by other studies across Africa. Other factors revolve around health-seeking behaviour including the perception of the severity of illness, ease of access to medications, prior drug use and recommendations from family and friends, as well as access to the internet.According to Alsaad et al., technological advancement has made medical information more abundant and accessible making the internet one of the leading go to information sources among persons seeking to self-medicate.Another determinant of self-medication is the source of drugs or medicines. In Uganda, our review has observed that the common sources of drugs for self-medication. link:https://www.researchgate.net/publication/388109999_The_nature_of_self-medication_in_Uganda_a_systematic_review_and_meta-analysis[researchgate]
+
+Furthermore, the availability of pharmacies and drug shops in both urban and rural settings, coupled with inadequate regulation of over-the-counter drug sales, makes self-medication a readily accessible option for many.
+
+Self medication also has advantages for healthcare systems as it facilitates better use of clinical skills, increases access to medication and may contribute to reducing prescribed drug costs associated with publicly funded health programmes.
+
+However, Potential risks of self-medication practices include; incorrect self-diagnosis, delays in seeking medical advice when needed, infrequent but severe adverse reactions, dangerous drug interactions, incorrect manner of administration, incorrect dosage, incorrect choice of therapy, masking of a severe disease and risk of dependence and abuse. link: https://pubmed.ncbi.nlm.nih.gov/20615179/[pbmed]
