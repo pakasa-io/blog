@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 weight: 1
 title: "brief: self-medication in Uganda"
 date: 2025-09-11T02:05:05+03:00
