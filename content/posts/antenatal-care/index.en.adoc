@@ -1,0 +1,227 @@
+---
+draft: false
+weight: 1
+title: "Antenatal Care "
+date: 2025-09-22T16:50:14+03:00
+lastmod: 2025-09-22T16:50:14+03:00
+authors:
+  - Sheillah
+tags:
+  - misc
+categories:
+  - misc
+series:
+series_weight: 1
+searchable: true
+featuredImage: _feature.webp
+featuredImagePreview: _preview.webp
+hiddenFromHomePage: true
+---
+
+Antenatal Care is the care a pregnant woman gets from health professionals during her pregnancy to make sure she and her baby are as well as possible. It starts from day one of the pregnancy until the day the baby is delivered to reduce risk factors and tracking fetal growth.
+
+*Objectives of Antenatal Care.*
+
+* To check the health of pregnant woman and her baby.
+
+* To give pregnant useful information to help her have a health pregnancy including advice about health eating and exercise.
+
+* To discuss the pregnant mother's options and choice for care during pregnancy, labour and birth.
+
+* To prepare her for physical and mental wellbeing.
+
+* To answer any question the pregnant lady may have.
+
+*Why is antenatal care is important?*
+
+* To help find any risks in pregnancy including before pregnancy, during pregnancy, on the delivery date and after delivery.
+
+* To ensure every stage of pregnancy is safe and free from complications.
+
+* To allow the mother and unborn baby receive timely treatment in case of necessity.
+
+*When should one start Antenatal care?*
+
+Pregnant women should start antenatal care as soon as they find out they are pregnant. The optimal time to start antenatal care is between 4 and 8 weeks of pregnancy, no later than 12 weeks from the first day of the last menstruation. However, the obstetrician suggests that the best time to start antenatal care is 1 month before pregnancy. Parents can schedule an appointment with an obstetrician for family planning before having a child and undergo an in-depth health examination to identify health issues, hereditary diseases, or infertility in both men and women, particularly if the woman has a physical health problem, which increases the risk of pregnancy and necessitates close care from an expert obstetrician throughout the pregnancy and postpartum period.
+
+*How many antenatal care appointments do I have to visit?*
+
+The number of antenatal care appointments varies depending on when the care starts, including the mother’s and the fetus’s health, and the degree of risk of pregnancy complications. Typically, the appointment schedule for antenatal care for pregnant mothers aged 18 to 35 who are in good health is as follows:
+
+* Gestational age less than 28 weeks; appointments every four weeks.
+* Gestational age between 28 and 32 weeks; appointments every 2–3 weeks.
+* Gestational age between 32 and 40 weeks; appointments every week.
+
+In addition, obstetricians may schedule more frequent appointments, particularly for pregnant women who are at high risk of pregnancy.
+
+*What is included in the first antenatal care visit?*
+
+* *Medical history:* the obstetrician obtains a detailed medical history, including;
+
+1. Menstrual history, including the first day of the last menstrual period (LMP).
+
+2. Congenital diseases, medications, and a history of drug allergy
+
+3. Pregnancy history, twin pregnancies, childbirth, miscarriage, complications during pregnancy, during and after birth, history of surgery such as uterine fibroids and ovarian cysts, history of accidents.
+
+4. Family health history with hereditary diseases such as diabetes, thalassemia, and Down syndrome.
+
+5. Smoking history, drug, or narcotic use by pregnant mothers and/or family members.
+Weigh the pregnant mother to determine the relationship between the mother’s weight and the fetus's development. Mothers who are 3 months or more pregnant should gain half a kilogram per week.
+
+* *Weigh the pregnant mother.* To determine the relationship between the mother’s weight and the fetus's development. Mothers who are 3 months or more pregnant should gain half a kilogram per week.
+
+* *Measure height.* To determine labor dystocia (difficult or obstructed labor), particularly pregnant mothers whose height is less than 140 centimeters may be at risk for difficult births due to a narrow pelvic floor. To reduce risk, the obstetrician will plan a suitable delivery method for the mother to reduce the risk.
+
+* *Measure blood pressure.* Before during, and after pregnancy. Hypertension during pregnancy can cause the kidneys and other organs to malfunction, resulting in low birth weight and premature birth. Low blood pressure, on the other hand, may prevent the fetus from receiving adequate oxygen and nutrients, resulting in slow baby growth, low birth weight, and premature birth.
+
+* *Physical examination.* To assess the mother's health and physical readiness, look for abnormalities in the body such as anemia, jaundice, swelling, and an enlarged neck, as well as check the heartbeat, lungs, and abdomen to assess the fetal growth.
+
+* *Urine test.* To determine sugar content and diabetes risk, to rule out bladder infection, and to assess kidney function by measuring protein levels. If the kidneys do not function properly and detect high blood pressure, there may be a high-risk of pregnancy. Urine tests can also detect dehydration, ketones, and bacteria in the urine, particularly during the 20th week of pregnancy.
+
+* *Blood tests.* Complete blood count (CBC; Hct/Hb MCV), blood type test (blood group ABO), thalassemia trait test (DCIP), Rh blood group system (Rh blood type test), hepatitis B surface antigen (HBsAg), thyroid-stimulating hormone test (TSH), and iron test (Ferritin test). In addition, blood tests measure the immune system, rubella, and sexually transmitted infections (STIs) such as HIV testing (anti-HIV) or syphilis testing (VDRL), which can result in infant disability or death.
+
+* *Abdominal ultrasounds.* To confirm a pregnancy or twin pregnancy, examine the gestational sac, placental position, baby gender, development of fetal organs (organogenesis), and organ structure, such as the heart, fingers, and toes. Check the structure of the skull, brain, and face, examine the baby's posture; and check for abnormal structures, and amniotic fluid, etc.
+
+* *Confirm pregnancy.* Identify gestational age and estimate delivery confinement/delivery (EDC/EDD) based on the first day of the last menstrual period.
+
+Once the first antenatal care is completed, the obstetrician will record the mother's and fetus' health information gained from the first antenatal care visit into the electronic health system. The obstetrician then prescribes pregnancy vitamins and schedules periodic pregnancy checkups in accordance with the antenatal care program, which is divided into 3 trimesters. The frequency of obstetrician 's appointments will be determined by the gestational age and pregnancy risks.
+
+*What is included in the 3 Trimester antenatal care?*
+
+*1st Trimester antenatal care (1–14 weeks pregnant) includes the following;*
+
+* *Urine tests.* Determine the amount of protein, sugar, bacteria, or infection in the urinary tract.
+
+* *Blood test (first-time antenatal care visit).* CBC, blood group ABO, Rh, sexually transmitted diseases, hepatitis B virus, syphilis, HIV, Hb typing, etc.
+
+* *None-invasive prenatal testing, or NIPT (between 12 and 16 weeks of pregnancy).* to look for fetal DNA in the maternal blood that that could indicate Down syndrome or other chromosomal abnormalities.
+
+* *Transabdominal ultrasound or Transvaginal ultrasound.* Calculate gestational age and delivery confinement, look for normal fetal pregnancy in the uterus, twin pregnancy, and structural abnormalities of the fetal organs, size, and heartbeat.
+
+* *Oral and dental health check.* Prevent tooth decay during pregnancy, which can lead to premature birth, low birth weight babies, and pre-eclampsia.
+
+* *Mental health assessment.* Assess emotional well-being, stress, depression, pregnancy readiness, and the ability to cope with physical changes.
+
+* *Pregnancy vitamins* The obstetrician provides pregnancy vitamins, which include iron, folic acid, calcium, and other pregnancy-related nutrients.
+
+* *1st Trimester recordkeeping.* The obstetrician records the 1st Trimester test results in the system.
+
+*2nd Trimester antenatal care (15–28 weeks) includes the following;*
+
+Appointment every 3–4 weeks: The obstetrician will schedule appointments every 3-4 weeks to monitor fetal development and prevent complications.
+
+*Blood tests* Screen for risk of gestational diabetes or diabetes during pregnancy (50 g glucose challenge test).
+
+* *Urine tests.* measure the protein and sugar levels in the urine (Urine Strip Test)
+
+* *Vaccines during pregnancy.* The obstetrician administers the influenza vaccine, diphtheria, tetanus, and whooping cough (depending on each individual's vaccination history).
+
+* *Abdominal ultrasound and Trans-vaginal ultrasound;* Identify the baby’s gender, whether it is a girl or a boy, monitor fetus development, fetal structural abnormalities, and cervical length measurement.
+
+* *Amniocentesis.* Check abnormal chromosomes in those at high risk of Down syndrome (gestational age between 16 and 20 weeks).
+
+* *Pregnancy vitamins* The obstetrician continually provides the necessary pregnancy vitamins and supplements.
+
+* *2nd Trimester record keeping.* The obstetrician records the 2nd  Trimester test results in the system.
+
+*3rd Trimester antenatal care (29–40 weeks) includes the following;*
+
+Appointment every 1-2 weeks. The obstetrician will schedule weekly appointments to plan the birth, practice before the delivery, and learn how to recognize antenatal signs and symptoms.
+
+* *Blood tests.* Diagnose hematocrit (HCT), infectious diseases, anti-HIV testing, and syphilis tests in preparation for birth.
+
+* *GBS Group B Streptococcus.* Test for Group B Streptococci during pregnancy.
+
+* *Abdominal ultrasounds.* Determine the maternal and fetal weights; assess the fetus health.
+
+* *Check the fetal position near birth.* Determines the uterine apex, and whether the baby rotates head downward into the pelvic cavity.
+
+* *Observe fetal movement.* Counting the number of baby kicks in the uterus and listening to the fetus heartbeat.
+
+* *Observe the leading symptoms.* Learn how to notice the signs and symptoms of true labor before giving birth that require a hospital visit, such as labor pains, amniotic fluid, bloody mucus, and an open cervix.
+
+* *Observe abnormal symptoms.* Learn how to spot unusual signs and symptoms before
+giving birth that necessitate immediate hospitalization, such as labor pains, vaginal bleeding, tightness in the epigastric area under the right ribcage, blurred vision, the baby moving less or not moving at all, and fever-related headaches.
+
+* *Prepare for childbirth.* The obstetrician and midwife provide advice on health care, nutrition, and preparation for childbirth, new parent preparation, proper newborn care, and breastfeeding.
+
+* *Plan for an appropriate labor method* The obstetrician plans a safe birth for both mother and baby, whether natural birth or cesarean section.
+
+* *Postpartum birth control.* The obstetrician assists with postnatal birth control planning.
+
+* *Pregnancy vitamins.* The obstetrician continues to prescribe the necessary pregnancy vitamins and supplements.
+
+* *3rd Trimester record keeping.* The obstetrician records the 3rd Trimester test results in the system.
+
+
+*Take steps to have a healthy pregnancy.*
+
+To keep you and your baby healthy, it's important that you:
+
+* Don’t smoke or drink alcohol
+* Eat healthy and get enough folic acid
+* Stay physically active.
+
+*Dietary and Caloric Recommendations*
+
+To maintain a healthy pregnancy, approximately 300 extra calories are needed each day. These calories should come from a balanced diet of protein, fruits, vegetables and whole grains. Sweets and fats should be kept to a minimum. A healthy, well-balanced diet can also help to reduce some pregnancy symptoms, such as nausea and constipation.
+
+*Fluid Intake During Pregnancy.*
+
+Fluid intake is also an important part of pregnancy nutrition. Follow these recommendations for fluid intake during pregnancy;
+
+* You can take in enough fluids by drinking several glasses of water each day, in addition to the fluids in juices and soups. Talk to your health care provider or midwife about restricting your intake of caffeine and artificial sweeteners.
+
+* Avoid all forms of alcohol.
+
+*Ideal Foods to Eat During Pregnancy.*
+
+The following foods are beneficial to your health and fetal development during pregnancy:
+
+* Vegetables: carrots, sweet potatoes, pumpkin, spinach, cooked greens, tomatoes and red sweet peppers (for vitamin A and potassium)
+
+* Fruits: cantaloupe, honeydew, mangoes, prunes, bananas, apricots, oranges, and red or pink grapefruit (for potassium)
+
+* Dairy: fat-free or low-fat yogurt, skim or 1% milk, soymilk (for calcium, potassium, vitamins A and D)
+
+* Grains: ready-to-eat cereals/cooked cereals (for iron and folic acid)
+
+* Proteins: beans and peas; nuts and seeds; lean beef, lamb and pork; salmon, trout, herring, sardines and pollock.
+
+*Foods to Avoid During Pregnancy.*
+
+Avoid eating the following foods during pregnancy;
+
+* Unpasteurized milk and foods made with unpasteurized milk (soft cheeses, including feta, queso blanco and fresco, Camembert, brie or blue-veined cheeses—unless labeled “made with pasteurized milk")
+
+* Hot dogs and luncheon meats (unless they are heated until steaming hot before serving)
+
+* Raw and undercooked seafood, eggs and meat. Do not eat sushi made with raw fish (cooked sushi is safe).
+
+* Refrigerated pâté and meat spreads
+
+* Refrigerated smoked seafood.
+
+*Challenges Women Face in Accessing Antenatal Care.*
+
+Antenatal care (ANC) is one of the most important steps in ensuring a safe pregnancy and healthy baby. Yet, for millions of women around the world, especially in low- and middle-income countries, accessing regular and quality ANC remains a struggle. While health experts like the World Health Organization recommend at least eight antenatal contacts during pregnancy, many women are unable to meet this standard. Below are some of the most common challenges:
+
+* *Distance to Health Facilities.* In rural and remote areas, clinics and hospitals are often far from where women live. Reaching these facilities may require long walks, costly transport, or crossing difficult terrain. This discourages many women from making regular visits.
+
+* *Financial Barriers.* Even where care is offered for free, hidden costs like transportation, medication, or laboratory tests can be unaffordable. For women living in poverty, meeting daily household needs often takes priority over clinic visits.
+
+* *Cultural Beliefs and Myths.* In some communities, pregnancy is seen as a natural process that does not require medical attention unless complications arise. Myths such as “ANC is only for first pregnancies” or “you only go when sick” also prevent women from seeking care early.
+
+* *Shortage of Skilled Health Workers.* Many health facilities, especially in developing countries, face shortages of doctors, nurses, and midwives. Long queues, rushed consultations, or lack of respectful care can discourage women from returning for follow-up visits.
+
+* *Lack of Information.* Some women are simply unaware of the importance of early and regular antenatal visits. Limited health education means they miss out on the benefits of nutritional advice, supplements, and screening tests.
+
+*Conclusion.*
+
+Antenatal care is a cornerstone of safe motherhood and child survival. It offers medical, nutritional, and psychological support that reduces risks for both mother and baby. By attending at least eight antenatal contacts and starting care early, women can experience healthier pregnancies and safer deliveries. To achieve this, governments, communities, and families must work together to remove barriers and ensure that every pregnant woman has access to quality antenatal care.
+
+
+
+
+
