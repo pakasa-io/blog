@@ -1,0 +1,36 @@
+---
+draft: true
+weight: 1
+title: "Index"
+date: 2025-10-05T13:19:48+03:00
+lastmod: 2025-10-05T13:19:48+03:00
+authors:
+  - Sheillah
+tags:
+  - misc
+categories:
+  - misc
+series:
+series_weight: 1
+searchable: true
+featuredImage: _feature.webp
+featuredImagePreview: _preview.webp
+hiddenFromHomePage: true
+---
+
+The postpartum or postnatal period begins after childbirth and is typically considered to last for six to eight weeks. There are three distinct phases of the postnatal period; the acute phase, lasting for six to twelve hours after birth; the subacute phase, lasting six weeks; and the delayed phase, lasting up to six months. During the delayed phase, some changes to the genitourinary system take much longer to resolve and may result in conditions such as urinary incontinence. The World Health Organization (WHO) describes the postnatal period as the most critical and yet the most neglected phase in the lives of mothers and babies. Most maternal and newborn deaths occur during this period.
+
+Importance of postpartum care for the mother.
+
+* *Physical Recovery.* Monitors and supports the mother's recovery from childbirth, promoting health healing for the post-pregnancy body.
+
+* *Emotional and mental health.* Provides crucial emotional support and screening for conditions like postpartum depression (PPD), which affects a significant number of mothers.
+
+* *Detect Complications.* Identifies and manages potential complications, as many maternal death occur in weeks following birth.
+
+* *Healthy Lifestyle Promotion.* Encourages good nutrition, adequate rest, and gradual physical activity to support the mother's recovery.
+
+* *Family Planning.* Offers education and access to family planning options to space pregnancies.
+
+* *Addresses Violence.* Provides support and resources for women experiencing intimate partner violence.
+

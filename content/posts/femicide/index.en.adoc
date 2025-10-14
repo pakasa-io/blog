@@ -1,0 +1,41 @@
+---
+draft: false
+weight: 1
+title: "Brief: Confronting Femicide in Uganda"
+date: 2025-10-09T18:13:05+03:00
+lastmod: 2025-10-09T18:13:05+03:00
+authors:
+  - Sheillah
+tags:
+  - misc
+categories:
+  - misc
+series:
+series_weight: 1
+searchable: true
+featuredImage: _feature.webp
+featuredImagePreview: _preview.webp
+hiddenFromHomePage: true
+---
+
+Femicide is the intentional killing of women and girls simply because of their gender. It is one of the most extreme forms of gender-based violence and a serious violation of human rights. Around the world, and in Uganda in particular, many women lose their lives each year to domestic violence, intimate partner abuse, and other forms of gender-related harm. Femicide not only destroys families leaving children motherless but also weakens communities and leaves deep emotional scars on society.   It is different from homicide, where the motivation may not be gender-related.
+
+Femicide in Uganda remains a severe and escalating crisis, characterized by a pattern of violence against women and girls, particularly those in marginalized communities. In 2023, Uganda reported 127 femicide cases, with the 2023 Uganda Police Annual Crime Report indicating that 113 women were killed as a result of aggravated domestic violence, a figure that likely under-represents the true scale due to underreporting, especially in rural areas where community-based dispute resolution often discourages legal action. link:https://www.rfi.fr/en/africa/20250402-kenya-s-silent-tragedy-a-woman-killed-every-two-days-justice-nowhere-in-sight[rfi.fr]
+
+The 2022 National Survey on Violence in Uganda, conducted by the Uganda National Bureau of Statistics (UBOS), found that Intimate Partner Violence (IPV), a common precursor to femicide, affected 45% of women, with rates as high as 78% in the Acholi region.
+
+The murder of Rebecca Cheptegei, a celebrated Ugandan Olympian and mother of two, in September 2024, has brought international attention to the issue. She was set on fire by her ex-boyfriend during a dispute in Kenya, where she was being treated for severe burns, and died from her injuries a few days later.Her death, described as a brutal act of domestic violence, has been widely condemned by human rights groups, the United Nations, and the World Athletics Federation, highlighting the extreme vulnerability women face even when they achieve national and international recognition. link:https://www.voanews.com/a/activists-call-ugandan-runner-s-burning-death-femicide/7774425.html[voanews.com]
+
+Activists and the Women’s Movement in Uganda have called her death a stark example of the growing backlash against women’s rights and the urgent need for stronger legal protections and societal change.
+
+Causes of femicide include prejudice, jealousy, revenge, male entitlement, gender bias, harmful gender roles, gender stereotypes, cultural beliefs such as female circumcision, so-called "honor killings", coercive control, social beliefs such as sati, and masculine hegemony that perpetuates the unequal power between men and women. link:https://en.wikipedia.org/wiki/Femicide[wikipedia]
+
+A spouse or partner is responsible for almost 40% of femicides, or homicides of a female victim Additionally, femicide may be underreported due to insufficient evidence. Femicide often includes domestic violence and forced abortions. In China, femicide occurs as sex-selective abortions, while other cultures use gender-selective infanticide and geronticide to perform femicide.
+
+To prevent femicide in Uganda, a comprehensive, multi-sectoral approach is required that addresses root causes, strengthens legal and institutional frameworks, and shifts societal norms. Key strategies include enacting and enforcing a specific law on femicide, which has been repeatedly called for by civil society and human rights organizations.
+The government must also commit resources to tackling the root causes of gender-based violence, including sex inequality, the objectification of women, and harmful beliefs about masculinity and femininity. link:https://www.dw.com/en/domestic-violence-in-east-africa-how-to-break-the-taboo-around-abuse/a-70162199[dw.com]
+
+In conclusion, femicide is not just another headline it’s the loss of voices, dreams, and futures that deserved to shine. No woman should ever die for simply being a woman. The fight to end this begins with all of us in how we speak, act, and stand up for what’s right. Let’s create a Uganda where women live without fear, where love heals instead of harms, and where every woman’s life is valued and protected.
+
+*“When we protect women, we protect the heartbeat of our nation.”*
+
